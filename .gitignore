@@ -23,14 +23,10 @@ venv/
 
 # ML artifacts / large outputs (remove if you want to version them)
 models/
-Dataset/
 evaluation_cache/
-extracted_sentences/
-rag_pipeline/
 checkpoints/
 wandb/
 runs/
-rag_pipeline/
 
 # Large model/data files
 *.pt

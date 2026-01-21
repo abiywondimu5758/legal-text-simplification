@@ -1,0 +1,368 @@
+legal_term,sense_id,plain_term,category,change_allowed,context,notes
+አለበት,obligation,አለበት,modal_verb,no,Imposes mandatory legal duty,Keep wording stable
+አይፈቀድለትም,prohibition,አይፈቀድም,prohibition,no,Explicit legal prohibition,Do not weaken
+ይቆጠራል,legal_classification,እንደ … ይቈጠራል,verb_phrase,no,Legal deeming or classification,Legal fiction
+ኃላፊ ይሆናል,liability,ተጠያቂ ይሆናል,verb_phrase,yes,Imposition of legal responsibility,Normalize liability wording
+ዋጋ አይኖራቸውም,invalidity,ኃይል የለውም,verb_phrase,yes,Clause has no legal effect,Standard invalidity phrase
+አይጸናም,invalidity,አይጸናም,verb_phrase,no,Legal non-validity,Keep precise term
+አይቻልም,prohibition,አይቻልም,prohibition,no,Absolute legal impossibility,Do not soften
+መቃወሚያ,legal_remedy,መቃወሚያ,noun,no,Formal legal objection,Technical term
+ማስታወቂያ,legal_notice,ማስታወቂያ,noun,no,Required legal notice,Do not simplify
+ውልን ማቋረጥ,termination,ውል መቋረጥ,verb_phrase,yes,Ending a contract,Normalize infinitive
+ውልን ማፍረስ,rescission,ውል ማፍረስ,verb_phrase,no,Judicial rescission of contract,Distinct from termination
+መመዝገብ,registration,መመዝገብ,verb,no,Formal legal registration,Keep original
+ማስረከብ ግዴታ,delivery_obligation,ማስረከብ ግዴታ,noun,no,Seller’s duty to deliver,Technical obligation
+መያዣ ዋስትና,security_interest,መያዣ ዋስትና,noun,no,Security right over business,Do not simplify
+መያዣ ማድረግ,pledge,መያዣ ማድረግ,verb_phrase,no,Creating security interest,Technical act
+ሦስተኛ ወገን,third_party,ሦስተኛ ወገን,noun,no,Person not party to contract,Standard legal term
+በጽሁፍ ካልሆነ,writing_requirement,በጽሁፍ ካልሆነ,condition,no,Written-form requirement,Formal validity condition
+ተጠያቂ ሊሆን ይችላል,possible_liability,ተጠያቂ ሊሆን ይችላል,verb_phrase,no,Potential legal liability,Conditional liability
+ይሰጣል,entitlement,ይሰጣል,verb,no,Granting of legal right or benefit,Keep neutral
+ይከፍላል,payment_duty,ይከፍላል,verb,no,Immediate duty to pay,Do not weaken
+
+legal_term,sense_id,plain_term,category,change_allowed,context,notes
+ውድቅ ማድረግ,rejection,ውድቅ ማድረግ,verb_phrase,no,Court dismisses objections,Procedural term
+ይደረጋል,procedural_action,ይደረጋል,verb,no,Legal or procedural action ordered,Neutral legal verb
+ትርፍ ገንዘብ,surplus,ትርፍ ገንዘብ,noun,no,Remaining amount after distribution,Financial legal term
+በሐራጅ መሸጥ,auction_sale,በሐራጅ መሸጥ,verb_phrase,no,Judicial auction sale,Do not simplify
+ያዝዛል,court_order,ያዝዛል,verb,no,Court issues binding order,Strong judicial verb
+የዋስትና መብት,security_right,የዋስትና መብት,noun,no,Right arising from security,Technical property right
+ካልተመዘገበ በስተቀር,registration_condition,ካልተመዘገበ በስተቀር,condition,no,Effectiveness depends on registration,Formal condition
+የውል ቃል,contract_clause,የውል ቃል,noun,no,Specific clause of a contract,Keep precise
+መዛወር,relocation,መዛወር,verb,no,Change of business location,Neutral legal action
+ማስተካከል,amendment,ማስተካከል,verb,no,Adjustment of registration or record,Procedural
+የመከታተል መብት,follow_up_right,የመከታተል መብት,noun,no,Right of security to follow asset,Technical security concept
+ፈራሽ ይሆናል,voidable,ፈራሽ ይሆናል,verb_phrase,no,Lease becomes voidable,Distinct from termination
+የዋስትና ገንዘብ,security_deposit,የዋስትና ገንዘብ,noun,no,Deposit securing obligations,Keep technical
+ሙሉ ለሙሉ ይመለስ,full_refund,ሙሉ ለሙሉ መመለስ,verb_phrase,yes,Return of full security amount,Normalize infinitive
+የጽሁፍ ፈቃድ,written_consent,የጽሁፍ ፈቃድ,noun,no,Formal written approval,Do not simplify
+በጋዜጣ ማስታወቅ,publication_notice,በጋዜጣ ማስታወቅ,verb_phrase,no,Mandatory public notice,Formal requirement
+ኃላፊነት አለበት,mandatory_liability,ኃላፊነት አለበት,verb_phrase,no,Imposition of strict responsibility,Strong liability
+ያስገድደዋል,compulsion,ያስገድደዋል,verb,no,Law forces immediate action,Coercive legal effect
+ተወዳዳሪ ንግድ,competitive_business,ተወዳዳሪ ንግድ,noun,no,Competing commercial activity,Competition law concept
+ኪሳራ እንዲከፍል,damages,ኪሳራ መክፈል,verb_phrase,yes,Compensation for loss,Normalize infinitive
+ክልከላ,non_compete_limit,ክልከላ,noun,no,Contractual restriction,Time-bound restriction
+መዋጮ,contribution,መዋጮ,noun,no,Membership or capital contribution,Corporate law term
+ማህበርተኛ,member,ማህበርተኛ,noun,no,Member of business association,Defined legal role
+ንግድ ማህበር,business_association,ንግድ ማህበር,noun,no,Commercial legal entity,Statutory definition
+መመስረቻ ጽሁፍ,articles_of_association,መመስረቻ ጽሁፍ,noun,no,Foundational document,Formal constitutive document
+ከንግድ መዝገብ መሰረዝ,deregistration,ከንግድ መዝገብ መሰረዝ,verb_phrase,no,Removal from commercial register,End of legal existence
+
+legal_term,sense_id,plain_term,category,change_allowed,context,notes
+ሕጋዊ ሰውነት,legal_personality,ሕጋዊ ሰውነት,noun,no,Existence as a legal person,Core corporate concept
+አይኖረውም,loss_of_status,አይኖረውም,verb,no,Legal status ceases,Do not soften
+ሸሪክ,partner,ሸሪክ,noun,no,Partner in a business association,Defined role
+የማህበሩ ስም መለወጥ,name_change,የማህበሩ ስም መለወጥ,verb_phrase,no,Change of registered name,Formal requirement
+የማህበሩ ሀብት,company_assets,የማህበሩ ሀብት,noun,no,Assets belonging to the association,Corporate property
+በዓይነት መዋጮ,contribution_in_kind,በዓይነት መዋጮ,noun,no,Non-cash contribution,Technical term
+በጥሬ ገንዘብ መክፈል,cash_payment,በጥሬ ገንዘብ መክፈል,verb_phrase,no,Payment in cash,Financial obligation
+ግምት,valuation,ግምት,noun,no,Valuation of contribution,Technical assessment
+ትክክለኛ ዋጋ,true_value,ትክክለኛ ዋጋ,noun,no,Correct market value,Precision required
+የመጠቀም መብት,usufruct,use_right,noun,no,Right to use property without ownership,Civil law concept
+የመቀበል መብት,receivables_right,የመቀበል መብት,noun,no,Right to receive money,Debt-related right
+አደጋ መተላለፍ,risk_transfer,አደጋ መተላለፍ,verb_phrase,no,Transfer of risk,Sales law concept
+በማህበሩ ጥፊት,association_fault,በማህበሩ ጥፊት,noun,no,Fault attributable to the association,Liability trigger
+ወለድ,interest,ወለድ,noun,no,Interest on late payment,Financial sanction
+መቀጫ,penalty,መቀጫ,noun,no,Penalty for non-compliance,Do not weaken
+የማህበሩ ስብሰባ,assembly,የማህበሩ ስብሰባ,noun,no,Formal meeting of partners,Governance term
+ድምፅ የመስጠት መብት,voting_right,ድምፅ የመስጠት መብት,noun,no,Right to vote,Core membership right
+የሒሳብ መግለጫ,financial_statement,የሒሳብ መግለጫ,noun,no,Accounting disclosure,Technical financial term
+የሥራ ክንውን ሪፖርት,activity_report,የሥራ ክንውን ሪፖርት,noun,no,Annual activity report,Governance requirement
+በአንድነትና በነጠሊ ተጠያቂ,joint_and_several_liability,በአንድነትና በነጠሊ ተጠያቂ,verb_phrase,no,Joint and several liability,Strict liability rule
+ማስጠንቀቂያ,prior_notice,ማስጠንቀቂያ,noun,no,Required prior warning,Procedural safeguard
+የትርፍና ኪሳራ ክፍፍል,profit_loss_sharing,የትርፍና ኪሳራ ክፍፍል,noun,no,Distribution of profit and loss,Core partnership rule
+የማህበሩ ሥራ አመራር,management,የማህበሩ ሥራ አመራር,noun,no,Management structure,Governance concept
+ሥራ አስኪያጅ,manager,ሥራ አስኪያጅ,noun,no,Person managing the association,Defined role
+ሥልጣን አላግባብ መገልገል,abuse_of_authority,ሥልጣን አላግባብ መገልገል,verb_phrase,no,Abuse of managerial power,Liability-triggering conduct
+በቅን ልቦና,good_faith,በቅን ልቦና,noun,no,Good faith of third parties,Protective principle
+ይሽራል,judicial_removal,ይሽራል,verb,no,Court removes a manager or auditor,Judicial power
+ሙሉ ስምምነት,unanimous_consent,ሙሉ ስምምነት,noun,no,Unanimous agreement of partners,High decision threshold
+ድምፅ ብልጫ,majority_vote,ድምፅ ብልጫ,noun,no,Decision by majority vote,Governance rule
+ሒሳብ አጣሪ,auditor,ሒሳብ አጣሪ,noun,no,Person auditing accounts,Technical oversight role
+ማፍረስ,dissolution,ማፍረስ,verb_phrase,no,Formal dissolution of association,End of existence
+መዋጮ መመለስ,return_of_contribution,መዋጮ መመለስ,verb_phrase,no,Refund of contributions after dissolution,Conditional right
+
+legal_term,sense_id,plain_term,category,change_allowed,context,notes
+የትርፍና ኪሳራ አከፋፈል,profit_loss_distribution,የትርፍና ኪሳራ አከፋፈል,noun,no,Distribution after debts and contributions settled,Core liquidation rule
+ኪሳራው ይከፋፈላል,loss_sharing,ኪሳራው ይከፋፈላል,verb_phrase,no,Loss shared among partners,Strict rule
+ኃላፊነታቸው ያልተወሰነ ሸሪክ,unlimited_partner,ኃላፊነታቸው ያልተወሰነ ሸሪክ,noun,no,Partner with unlimited liability,Do not simplify
+ኃላፊነታቸው የተወሰነ ሸሪክ,limited_partner,ኃላፊነታቸው የተወሰነ ሸሪክ,noun,no,Partner with limited liability,Defined legal status
+በአንድነትና በተናጠል ኃላፊ,joint_and_several_liability,በአንድነትና በተናጠል ኃላፊ,verb_phrase,no,Liability to third parties,High-risk obligation
+የማህበሩ መመስረቻ ጽሁፍ,articles_of_association,የማህበሩ መመስረቻ ጽሁፍ,noun,no,Foundational document of association,Formal document
+የሞያ መዋጮ,professional_contribution,የሞያ መዋጮ,noun,no,Contribution in professional service,Restricted for limited partners
+ተፈፃሚነት,applicability,ተፈፃሚነት,noun,no,Whether provisions apply,Legal effect term
+በቅን ልቦና የተቀበለ,good_faith_receipt,በቅን ልቦና የተቀበለ,verb_phrase,no,Profit received in good faith,Protection clause
+የሒሳብ ሚዛን,certified_balance_sheet,የሒሳብ ሚዛን,noun,no,Approved financial balance sheet,Accounting term
+ክልከላ,prohibition,ክልከላ,noun,no,Legal prohibition,Do not weaken
+የሥራ አስኪያጅ መሆን,acting_as_manager,የሥራ አስኪያጅ መሆን,verb_phrase,no,Acting as manager role,Triggers liability
+የሥራ አስኪያጅነት ሥራ,managerial_acts,የሥራ አስኪያጅነት ሥራ,noun,no,Acts considered management,Defined by law
+ማህበሩ ማፍረስ,dissolution_event,ማህበሩ ማፍረስ,verb_phrase,no,Dissolution of association,End-stage process
+ድርሻ ማስተላለፍ,transfer_of_share,ድርሻ ማስተላለፍ,verb_phrase,no,Transfer of partnership share,Consent-based
+ሙሉ ስምምነት,unanimous_consent,ሙሉ ስምምነት,noun,no,Consent of all partners,Decision threshold
+ድምፅ ልዩነት,voting_variation,ድምፅ ልዩነት,noun,no,Different voting arrangements,By agreement only
+የሞያ አገልግሎት,professional_service,የሞያ አገልግሎት,noun,no,Licensed professional service,Definition clause
+የሞያው ደጋፊ አገልግሎት,ancillary_professional_service,የሞያው ደጋፊ አገልግሎት,noun,no,Service supporting professional work,Related service
+የሕግ ሰውነት,separate_legal_personality,የሕግ ሰውነት,noun,no,Separate legal personality,Foundational principle
+ተጠያቂ አይሆንም,no_liability,ተጠያቂ አይሆንም,verb,no,Exemption from liability,Strict exception
+ዕዳ እና ኃላፊነት,prior_debts_liability,ዕዳ እና ኃላፊነት,noun,no,Debts incurred before exit,Continuing liability
+በንግድ መዝገብ መመዝገብ,registry_entry,በንግድ መዝገብ መመዝገብ,verb_phrase,no,Recording changes in trade register,Public notice
+ድርሻ ተሰልቶ መክፈል,share_valuation_payment,ድርሻ ተሰልቶ መክፈል,verb_phrase,no,Cash settlement of exiting partner share,No substitution right
+ሶስት አራተኛ ስምምነት,three_quarter_majority,ሶስት አራተኛ ስምምነት,noun,no,¾ majority approval,Heightened threshold
+የጊዜ ገደብ,time_limit,የጊዜ ገደብ,noun,no,Statutory time limit,Procedural rule
+ጊዜ ማራዘም,extension_of_time,ጊዜ ማራዘም,verb_phrase,no,Extension granted by authority,Discretionary
+ባለቤትነት መቆየት,retention_of_ownership,ባለቤትነት መቆየት,verb_phrase,no,Ownership of contribution retained,Default rule
+ሥራ አስኪያጅ ሥልጣን,managerial_authority,ሥራ አስኪያጅ ሥልጣን,noun,no,Authority of manager,Defined internally
+መቃወሚያ አይሆንም,non_opposable,መቃወሚያ አይሆንም,verb,no,Not opposable to third parties,Registration principle
+የማስረዳት ግዴታ,duty_to_account,የማስረዳት ግዴታ,noun,no,Duty to explain and report,Non-waivable
+መቆጣጠር,right_of_supervision,መቆጣጠር,verb,no,Partners’ right to supervise manager,Governance control
+ሥራ አስኪያጅ መሻር,removal_of_manager,ሥራ አስኪያጅ መሻር,verb_phrase,no,Removal for sufficient cause,Judicial or internal
+ተጠያቂ ይሆናል,personal_liability,ተጠያቂ ይሆናል,verb,no,Personal liability arises,Strict consequence
+
+legal_term,sense_id,plain_term,category,change_allowed,context,notes
+ሸሪክን ከማህበሩ ማስወጣት,expulsion_of_partner,ሸሪክን ከማህበሩ ማስወጣት,verb_phrase,no,Court-ordered removal of a partner,Severe remedy
+ጥፊተኛ ሸሪክ,faulty_partner,ጥፊተኛ ሸሪክ,noun,no,Partner at fault causing dispute,Ground for expulsion
+ፍርድ ቤት ማዘዝ,court_order,ፍርድ ቤት ማዘዝ,verb_phrase,no,Judicial power to order actions,Formal authority
+ከማህበሩ መውጣት,partner_exit,ከማህበሩ መውጣት,verb_phrase,no,Exit of partner from association,Defined by contract
+የመውጣት ምክንያት,exit_ground,የመውጣት ምክንያት,noun,no,Grounds for partner exit,Contractual or legal
+ድርሻ መክፈል,share_payout,ድርሻ መክፈል,verb_phrase,no,Payment of exiting partner’s share,Valuation-based
+ተፈፃሚ ድንጋጌዎች,applicable_provisions,ተፈፃሚ ድንጋጌዎች,noun,no,Provisions applicable by reference,Legal incorporation
+እሽሙር ማህበር,limited_partnership,እሽሙር ማህበር,noun,no,Special partnership type,Technical term
+የአክሲዮን ማህበር,share_company,የአክሲዮን ማህበር,noun,no,Joint-stock company,Core definition
+ዋና ገንዘብ,share_capital,ዋና ገንዘብ,noun,no,Subscribed capital,Accounting core
+ካፒታል,capital,ካፒታል,noun,no,Capital of company,Equivalent term
+ባለአክሲዮን,shareholder,ባለአክሲዮን,noun,no,Holder of shares,Defined status
+የአክሲዮን ዋጋ,par_value,የአክሲዮን ዋጋ,noun,no,Nominal value per share,Statutory minimum
+ለሕዝብ ክፍት አክሲዮን,public_share_issue,ለሕዝብ ክፍት አክሲዮን,noun,no,Public share offering,Regulated
+አደራጅ,promoter,አደራጅ,noun,no,Person promoting incorporation,Distinct role
+መግለጫ,prospectus,መግለጫ,noun,no,Disclosure document for investors,Strict content
+ምስረታ ኃላፊነት,formation_liability,ምስረታ ኃላፊነት,noun,no,Liability during formation phase,Personal liability
+የሕግ ሰውነት,legal_personality,የሕግ ሰውነት,noun,no,Separate legal existence,Fundamental principle
+ይርጋ,limitation_period,ይርጋ,noun,no,Statutory limitation period,Time bar
+የኃላፊነት ክስ,liability_claim,የኃላፊነት ክስ,noun,no,Civil claim for liability,Procedural
+መሥራቾች,founders,መሥራቾች,noun,no,Founders of company,Distinct from promoters
+ልዩ ጥቅም,special_benefit,ልዩ ጥቅም,noun,no,Special benefit to promoters,Strictly capped
+ተጣራ ትርፍ,net_profit,ተጣራ ትርፍ,noun,no,Net distributable profit,Accounting term
+የድካም ዋጋ,promoter_remuneration,የድካም ዋጋ,noun,no,Remuneration for effort,Not in shares
+በጥሬ ገንዘብ መክፈል,cash_payment,በጥሬ ገንዘብ መክፈል,verb_phrase,no,Cash-only payment requirement,No substitution
+የመመስረቻ ሁኔታዎች,formation_requirements,የመመስረቻ ሁኔታዎች,noun,no,Statutory incorporation conditions,Mandatory
+ዝግ የባንክ ሒሳብ,blocked_bank_account,ዝግ የባንክ ሒሳብ,noun,no,Blocked account for capital,Protection mechanism
+በዓይነት መዋጮ,in_kind_contribution,በዓይነት መዋጮ,noun,no,Non-cash contribution,Requires valuation
+የግምት ሪፖርት,valuation_report,የግምት ሪፖርት,noun,no,Expert valuation report,Audit-linked
+የምስረታ ኦዲት,formation_audit,የምስረታ ኦዲት,noun,no,Audit of formation process,Pre-registration
+ዳይሬክተሮች ቦርድ,board_of_directors,ዳይሬክተሮች ቦርድ,noun,no,Governing board,Collective liability
+ፈራሚዎች ጉባኤ,subscribers_meeting,ፈራሚዎች ጉባኤ,noun,no,Meeting of subscribers,Formation stage
+የንግድ መዝገብ,commercial_register,የንግድ መዝገብ,noun,no,Official trade register,Public record
+ምዝገባ,registration,ምዝገባ,noun,no,Legal registration act,Creates personality
+ሕጋዊ ሁኔታዎች,legal_conditions,ሕጋዊ ሁኔታዎች,noun,no,Statutory legal conditions,Validity test
+ማህበር መፍረስ,company_dissolution,ማህበር መፍረስ,verb_phrase,no,Judicial or statutory dissolution,End of existence
+የአክሲዮን ዓይነት,share_type,የአክሲዮን ዓይነት,noun,no,Registered or bearer share,Classification
+በስም የተመዘገበ አክሲዮን,registered_share,በስም የተመዘገበ አክሲዮን,noun,no,Share registered to owner,Modern default
+ሊመጪው አክሲዮን,bearer_share,ሊመጪው አክሲዮን,noun,no,Bearer share,Transitional only
+የሽግግር ጊዜ,transitional_period,የሽግግር ጊዜ,noun,no,Time allowed for conversion,Non-extendable
+የዋጋ ብልጫ,share_premium,የዋጋ ብልጫ,noun,no,Amount above par value,Capital reserve
+የአክሲዮን ምስክር ወረቀት,share_certificate,የአክሲዮን ምስክር ወረቀት,noun,no,Certificate evidencing ownership,Post-registration only
+አክሲዮን አለመከፋፈል,indivisible_share,አክሲዮን አለመከፋፈል,noun,no,Share indivisibility rule,Single unit
+የጋራ ባለቤትነት,joint_ownership,የጋራ ባለቤትነት,noun,no,Joint ownership of share,Requires representative
+የጋራ ወኪል,joint_representative,የጋራ ወኪል,noun,no,Representative of joint owners,Mandatory for rights
+መያዣ,pledge,መያዣ,noun,no,Pledge over shares,Security interest
+አላባ,usufruct,አላባ,noun,no,Usufruct right over shares,Civil law concept
+የቀዳሚነት መብት,preemptive_right,የቀዳሚነት መብት,noun,no,Right of first refusal,Shareholder protection
+የአክሲዮን መዝገብ,share_register,የአክሲዮን መዝገብ,noun,no,Register of shareholders,Authoritative record
+ግልባጭ መስጠት,certified_extract,ግልባጭ መስጠት,verb_phrase,no,Providing certified copy,Access right
+የመንግስት አካል,public_authority,የመንግስት አካል,noun,no,Competent government body,Regulatory power
+የራስ አክሲዮን መግዛት,treasury_shares,የራስ አክሲዮን መግዛት,verb_phrase,no,Company buying own shares,Strict conditions
+ድምፅ መታገድ,voting_suspension,ድምፅ መታገድ,noun,no,Suspension of voting rights,Automatic consequence
+
+
+legal_term,sense_id,plain_term,category,change_allowed,context,notes
+የራስ አክሲዮን መግዛት,capital_reduction_context,የራስ አክሲዮን መግዛት,verb_phrase,no,When company repurchases its own shares as part of capital reduction,Highly regulated act
+የባለአክሲዮኖች አስቸኳይ ጠቅላላ ጉባኤ,extraordinary_general_meeting,የባለአክሲዮኖች አስቸኳይ ጠቅላላ ጉባኤ,noun,no,Meeting convened for fundamental decisions,Distinct from ordinary meeting
+አክሲዮን ዝውውር,share_transfer,አክሲዮን ዝውውር,noun,no,Transfer of share ownership,Core company law concept
+የአክሲዮን ዝውውር ገደብ,transfer_restriction,የአክሲዮን ዝውውር ገደብ,noun,no,Restriction on share transfer,Must not cause excessive harm
+የቦርድ ፈቃድ,board_approval,የቦርድ ፈቃድ,noun,no,Prior approval by board of directors,Procedural requirement
+የቅድሚያ መብት,preemption_right,የቅድሚያ መብት,noun,no,Right to purchase shares first,Shareholder protection
+ልዩ መብት ያላቸው አክሲዮኖች,preferred_shares,ልዩ መብት ያላቸው አክሲዮኖች,noun,no,Shares with preferential rights,Includes dividend or liquidation priority
+ድምፅ መገደብ,voting_limitation,ድምፅ መገደብ,noun,no,Limitation of voting rights,Quantitative statutory cap
+ትርፍ ብቻ የሚያስገኙ አክሲዮኖች,profit_only_shares,ትርፍ ብቻ የሚያስገኙ አክሲዮኖች,noun,no,Shares entitled only to profits,No voting by default
+ያልተከፈለ የአክሲዮን ዋጋ,unpaid_share_capital,ያልተከፈለ የአክሲዮን ዋጋ,noun,no,Outstanding unpaid share value,Triggers liability
+በዓይነት መዋጮ,in_kind_contribution_timing,በዓይነት መዋጮ,noun,no,Non-cash contribution to capital,Requires registration formalities
+ሊመጪው አክሲዮን,bearer_share_legacy,ሊመጪው አክሲዮን,noun,no,Legacy bearer share regime,Transitional treatment
+ጊዜያዊ የምስክር ወረቀት,temporary_share_certificate,noun,no,Temporary certificate issued before full payment,No transfer before full payment
+በሐራጅ መሸጥ,auction_sale,በሐራጅ መሸጥ,verb_phrase,no,Forced sale of shares for non-payment,Enforcement mechanism
+ዋና ገንዘብ መቀነስ,capital_reduction,ዋና ገንዘብ መቀነስ,noun,no,Reduction of share capital,Requires special procedure
+ድምፅ መጥፋት,voting_right_loss,ድምፅ መጥፋት,noun,no,Loss of voting rights due to non-payment,Automatic sanction
+የአናሳ ባለአክሲዮኖች መብት,minority_exit_right,noun,no,Right of minority shareholders to exit,Triggered by 90% control
+የአክሲዮን ዋጋ ግምገማ,share_valuation,noun,no,Judicial or expert valuation of shares,Dispute resolution tool
+ባለሞያ መሾም,expert_appointment,verb_phrase,no,Court appointment of valuation expert,Procedural safeguard
+የዳይሬክተሮች ቦርድ,board_of_directors,noun,no,Company governing body,Collective responsibility
+ቋሚ ተወካይ,permanent_representative,noun,no,Representative of legal-person director,Mandatory designation
+ከዳይሬክተርነት መውረድ,removal_for_misconduct,verb_phrase,no,Removal due to misuse of powers,Sanction
+የሥራ ዘመን,term_of_office,noun,no,Fixed mandate period,Typically three years
+የቦርድ ሰብሳቢ,board_chairperson,noun,no,Chair of the board,Must be non-executive
+ኮሚቴ ማቋቋም,board_committee,verb_phrase,no,Creation of board committees,Delegated oversight
+ቃለ ጉባኤ,minutes_of_meeting,noun,no,Official meeting minutes,Evidentiary record
+በኤሌክትሮኒክ ዘዴ ስብሰባ,electronic_meeting,noun,no,Remote board meeting via electronic means,Subject to safeguards
+ውክልና,proxy_representation,noun,no,Representation by proxy at board meeting,Written form required
+የመታመን ግዴታ,fiduciary_duty,noun,no,Duty to act in company’s best interest,Core directors’ duty
+ጥንቃቄና ትጋት,duty_of_care,noun,no,Standard of care for directors,Objective test
+የጥቅም ግጭት,conflict_of_interest,noun,no,Conflict between personal and company interest,Disclosure required
+ውድድር መከልከል,non_compete,prohibition,no,Restriction on competing with the company,Requires approval to lift
+መረጃ እና የንግድ ዕድል መጠቀም,corporate_opportunity,prohibition,no,Use of company information or opportunity,Survives resignation
+ማሳወቅ ግዴታ,disclosure_obligation,noun,no,Duty to disclose conflicts or changes,Strict time limits
+
+legal_term,sense_id,plain_term,category,change_allowed,context,notes
+ሸሪክ,partner_status,ሸሪክ,noun,no,Member of a partnership,Core partnership role
+ማህበሩ እንዲፈርስ,dissolution_order,ማህበር መፍረስ,verb_phrase,no,Court-ordered dissolution of a company or partnership,Judicial power
+ከማህበሩ ማስወጣት,expulsion_of_partner,ከማህበር ማስወጣት,verb_phrase,no,Removal of a partner by court order or agreement,Distinct from dissolution
+የነበረው ድርሻ,exit_share,የነበረ ድርሻ,noun,no,Value of partner’s share at time of exit,Basis for settlement
+ተፈፃሚ ይሆናል,applicability,ተፈፃሚ ይሆናል,verb_phrase,no,Provision applies to a given entity,Legal effect clause
+የንግድ ሕግ,commercial_code_reference,የንግድ ሕግ,noun,no,Reference to the Commercial Code,Statutory source
+አደራጅ,promoter,አደራጅ,noun,no,Person initiating company formation,Distinct legal role
+መሥራቾች,founders,መሥራቾች,noun,no,Persons establishing a company,Different from promoters in some contexts
+በይርጋ ይታገዳል,limitation_of_action,በይርጋ ይታገዳል,verb_phrase,no,Claim barred by limitation period,Procedural bar
+የሕግ ሰውነት,legal_personality,የሕግ ሰውነት,noun,no,Separate legal personality acquired upon registration,Foundational concept
+መመስረቻ ጽሁፍ,memorandum_of_association,መመስረቻ ጽሁፍ,noun,no,Constitutive document of a company,Formal requirement
+የፈራሚዎች ጉባኤ,subscribers_meeting,የፈራሚዎች ጉባኤ,noun,no,Meeting of share subscribers before registration,Pre-incorporation body
+የምስረታ ኦዲት,incorporation_audit,የምስረታ ኦዲት,noun,no,Audit verifying formation requirements,External verification
+በንግድ መዝገብ መግባት,commercial_registration,በንግድ መዝገብ መመዝገብ,verb_phrase,no,Entry of company in commercial register,Condition for legal personality
+የአክሲዮን ባለቤትነት ምስክር ወረቀት,share_certificate,የአክሲዮን ባለቤትነት ምስክር ወረቀት,noun,no,Document evidencing share ownership,No value before registration
+
+egal_term,sense_id,plain_term,category,change_allowed,context,notes
+ከማህበሩ ማስወጣት,partner_expulsion,ከማህበሩ ማስወጣት,verb_phrase,no,Court orders removal of a partner instead of dissolving the partnership,Alternative remedy to dissolution
+ፍርድ ቤት ማዘዝ,court_order,ፍርድ ቤት ማዘዝ,verb_phrase,no,Judicial power to order continuation or expulsion,Binding judicial act
+የወጣበት ጊዜ የነበረው ድርሻ,exit_share_valuation,የወጣበት ጊዜ ድርሻ,noun,no,Valuation of a partner’s share at time of exit,Basis for settlement
+በውል መወሰን,contractual_determination,በውል መወሰን,verb_phrase,no,Grounds determined by agreement among partners,Party autonomy
+የመጠየቅ መብት,claim_right,የመጠየቅ መብት,noun,no,Right to demand payment or performance,Substantive right
+አደራጅነት,promoter_status,አደራጅነት,noun,no,Legal status of a company promoter,Distinct from shareholder
+የሕዝብ ጥሪ,public_subscription,የሕዝብ ጥሪ,noun,no,Invitation to the public to subscribe shares,Public offering context
+ለሕዝብ ክፍት ያልሆነ ማህበር,private_share_company,ለሕዝብ ክፍት ያልሆነ ማህበር,noun,no,Share company not open to public subscription,Private regime
+በይርጋ መታገድ,limitation_bar,በይርጋ መታገድ,verb_phrase,no,Action barred due to lapse of statutory time,Procedural extinction
+የሽግግር ጊዜ,transitional_period,noun,no,Period allowed for conversion of bearer shares,Time-limited regime
+ሊመጪው አክሲዮን,bearer_share,noun,no,Share issued to bearer under former law,Legacy instrument
+የአክሲዮን ዋጋ ብልጫ,share_premium,noun,no,Difference between nominal value and issue price,Capital reserve concept
+የአክሲዮን አለመከፋፈል,indivisible_share,condition,no,Share cannot be divided among multiple holders,Unitary nature
+የጋራ ወኪል,joint_representative,noun,no,Representative appointed by joint shareholders,Single voice rule
+በአንድነትና በተናጠል ተጠያቂ,joint_and_several_liability,noun,no,Joint owners liable together and individually,High-risk liability
+መያዣ አክሲዮን,pledged_share,noun,no,Share given as security or pledge,Affects voting and payment
+የቀሪ ገንዘብ ክፍያ,call_on_unpaid_capital,noun,no,Company demand for unpaid share capital,Triggers enforcement
+በሐራጅ መሸጥ,enforced_sale,verb_phrase,no,Sale of shares due to non-payment,Statutory enforcement
+ግዕዝ አልባ አክሲዮን,dematerialized_share,noun,no,Electronically recorded share without certificate,Modern issuance form
+የአክሲዮን መዝገብ,share_register,noun,no,Official register of shareholders,Evidentiary and regulatory
+የመዝገብ ግልባጭ,register_extract,noun,no,Certified extract from share register,Access right
+የራስ አክሲዮን መግዛት,treasury_shares,verb_phrase,no,Company repurchase of its own shares,Strictly conditioned
+ድምፅ መታገድ,voting_suspension,noun,no,Suspension of voting rights for certain shares,Protective sanction
+
+legal_term,sense_id,plain_term,category,change_allowed,context,notes
+ቅድመ ኪሳራ የክፍያ ጥያቄ,pre_insolvency_claim,ቅድመ ኪሳራ የክፍያ ጥያቄ,noun,no,Claims submitted before insolvency proceedings,Core insolvency concept
+መልሶ የማደራጀት ሥነ ሥርዓት,reorganization_proceeding,መልሶ የማደራጀት ሥነ ሥርዓት,noun,no,Formal restructuring procedure under court supervision,Distinct from liquidation
+መልሶ የማደራጀት ኃላፊ,reorganization_administrator,መልሶ የማደራጀት ኃላፊ,noun,no,Person appointed to manage restructuring process,Judicially supervised role
+ተቆጣጣሪ ዳኛ,supervising_judge,ተቆጣጣሪ ዳኛ,noun,no,Judge supervising the restructuring process,Oversight authority
+የጊዜ ገደብ,time_limit,የጊዜ ገደብ,noun,no,Statutory deadline for filing claims or actions,Procedural requirement
+ዋስትና መብት,security_right,ዋስትና መብት,noun,no,Right secured by collateral,Priority affecting claims
+ዋስትና ያለው ገንዘብ ጠያቂ,secured_creditor,ዋስትና ያለው ገንዘብ ጠያቂ,noun,no,Creditor holding a security right,Priority creditor
+ዋስትና የሌለው ገንዘብ ጠያቂ,unsecured_creditor,ዋስትና የሌለው ገንዘብ ጠያቂ,noun,no,Creditor without collateral,Lower priority
+በጊዜው መቅረብ,timely_filing,በጊዜው መቅረብ,condition,no,Requirement that claims be filed within deadline,Eligibility condition
+ተቀባይነት መስጠት,claim_admission,ተቀባይነት መስጠት,verb_phrase,no,Formal acceptance of a claim by administrator,Affects participation
+ውድቅ ማድረግ,claim_rejection,ውድቅ ማድረግ,verb_phrase,no,Rejection of a claim with stated reasons,Requires justification
+ጊዜያዊ ተቀባይነት,provisional_admission,ጊዜያዊ ተቀባይነት,noun,no,Temporary acceptance of uncertain claims,Subject to later adjustment
+ክርክር,dispute,ክርክር,noun,no,Dispute over claims,security, or priority,Triggers judicial review
+ይግባኝ,appeal,ይግባኝ,noun,no,Right to challenge a judicial or administrative decision,Procedural remedy
+የተረጋገጡ ዝርዝር,final_verified_list,noun,no,Final list of verified and admitted claims,Basis for voting and distribution
+ቅድሚያ የማግኘት መብት,priority_right,noun,no,Statutory or contractual right to priority payment,Affects ranking
+ፈራሽ,voidable_act,ፈራሽ,verb_phrase,no,Transaction subject to avoidance in insolvency,Distinct from nullity
+ፈራሽ ማድረግ,avoidance_action,ፈራሽ ማድረግ,verb_phrase,no,Legal action to invalidate harmful transactions,Protects estate
+ይርጋ,limitation_period,noun,no,Time limit barring avoidance or claims,Procedural extinction
+መልሶ የማደራጀት ዕቅድ,reorganization_plan,መልሶ የማደራጀት ዕቅድ,noun,no,Plan for restructuring debtor obligations,Central restructuring instrument
+የገንዘብ ጠያቂዎች መደብ,creditor_class,noun,no,Grouping of creditors for voting and treatment,Based on similarity of interests
+አብላጭ ድምፅ,qualified_majority,noun,no,Required majority for approving plans or decisions,Typically two-thirds
+መጽደቅ,plan_confirmation,መጽደቅ,verb_phrase,no,Court or creditor approval of a plan,Binding effect
+አስገዳጅ ተፈፃሚነት,binding_effect,noun,no,Legal binding force of approved plan or judgment,Applies to all parties
+መክሰር ሥነ ሥርዓት,bankruptcy_proceeding,noun,no,Liquidation procedure following failed reorganization,Distinct legal regime
+በመንቀሳቀስ ላይ መሸጥ,going_concern_sale,verb_phrase,no,Sale of business as a going concern,Value-preserving sale
+ጨረታ,bidding_process,noun,no,Competitive process for sale of business or assets,Ensures transparency
+የሚስጥር ጥበቃ ስምምነት,confidentiality_agreement,noun,no,Agreement to protect sensitive information in bidding,Precondition to access data
+የባለዕዳ ግዴታ,fiduciary_duty,noun,no,Duty of directors and managers toward creditors,Heightened near insolvency
+
+legal_term,sense_id,plain_term,category,change_allowed,context,notes
+ቀላል መልሶ የማደራጀት ሥነ ሥርዓት,simplified_reorganization,ቀላል መልሶ የማደራጀት ሥነ ሥርዓት,noun,no,Simplified restructuring procedure ordered by court,Distinct from ordinary reorganization
+የቆይታ ጊዜ,procedure_duration,የቆይታ ጊዜ,noun,no,Time period fixed by court for a procedure,Procedural limit
+መልሶ የማደራጀት ኃላፊ,reorganization_officer,መልሶ የማደራጀት ኃላፊ,noun,no,Person appointed to manage reorganization process,Judicial appointment
+የገንዘብ ጠያቂዎች መደብ,creditor_classification,የገንዘብ ጠያቂዎች መደብ,noun,no,Grouping creditors by legal priority,Basis for voting
+ቀላል መልሶ የማደራጀት ሥነ ሥርዓት መቋረጥ,simplified_reorg_termination,ቀላል መልሶ የማደራጀት ሥነ ሥርዓት መቋረጥ,verb_phrase,no,Termination when plan is not approved,Leads to conversion
+መክሰር ሥነ ሥርዓት,bankruptcy_procedure,መክሰር ሥነ ሥርዓት,noun,no,Formal insolvency liquidation process,Distinct legal regime
+ክፍያዎችን ማቋረጥ,payment_cessation,ክፍያዎችን ማቋረጥ,verb_phrase,no,Debtor stops paying due debts,Key insolvency trigger
+የመክሰር አቤቱታ,bankruptcy_petition,noun,no,Application to open bankruptcy proceedings,Filed by debtor or creditor
+በራሱ ተነሳሽነት,court_ex_officio,በራሱ ተነሳሽነት,condition,no,Court acts without party request,Judicial initiative
+ንብረት ጠባቂ,estate_administrator,ንብረት ጠባቂ,noun,no,Person administering bankrupt estate,Central insolvency role
+ተቆጣጣሪ ዳኛ,supervising_judge,ተቆጣጣሪ ዳኛ,noun,no,Judge overseeing insolvency procedure,Oversight authority
+በአንድነትና በተናጠል ኃላፊ,joint_and_several_liability,በአንድነትና በተናጠል ኃላፊ,noun,no,Liability together and individually,High risk liability
+የመክሰር ፍርድ,bankruptcy_judgment,noun,no,Court decision opening bankruptcy,Produces immediate effects
+የፍርድ ማስታወቂያ,judgment_publication,noun,no,Official notification of bankruptcy judgment,Starts deadlines
+ይግባኝ,appeal,noun,no,Challenge against insolvency decision,Time-bound remedy
+መቃወሚያ,objection,noun,no,Formal opposition to court decision,Distinct from appeal
+የገንዘብ ጠያቂዎች ኮሚቴ,creditors_committee,noun,no,Committee representing creditors in insolvency,Supervisory body
+ከባድ ቸልተኝነት,gross_negligence,noun,no,Severe lack of due care,Threshold for liability
+እሽግ,sealing_of_assets,noun,no,Judicial sealing of debtor assets,Preservation measure
+ሊታሸግ የማይችሉ ዕቃዎች,non_seizable_items,noun,no,Assets exempt from sealing or seizure,Minimum protection
+የዕቃ ዝርዝር መዝገብ,inventory_register,noun,no,Official inventory of debtor assets,Basis for administration
+መብቶች መገፈፍ,loss_of_disposition_rights,noun,no,Debtor loses control over assets upon bankruptcy,Automatic legal effect
+የባንክ ሒሳብ መክፈት,estate_bank_account,verb_phrase,no,Opening bank account in name of estate,Transparency requirement
+የአጠባበቅ ሥራዎች,conservatory_measures,noun,no,Temporary protective acts before takeover,Limited scope
+በተፋጠነ ሥነ ሥርዓት,summary_procedure,condition,no,Accelerated hearing and decision,Procedural efficiency
+
+legal_term,sense_id,plain_term,category,change_allowed,context,notes
+የመክሰር መክፈቻ ፍርድ,bankruptcy_opening_order,የመክሰር መክፈቻ ፍርድ,noun,no,Court order formally opening bankruptcy proceedings,Creates legal effects
+ክፍያ የደረሰ ገንዘብ ጥያቄ,due_payment_claim,noun,no,Claim whose payment date has arrived,Condition for petition
+ንብረት አጣሪ,property_seizure_officer,noun,no,Person appointed to prevent dissipation of assets,Temporary role
+የንግድ ሥራ ማቋረጥ,business_cessation,noun,no,Stopping commercial operations,May indicate insolvency
+የመክሰር ሥነ ሥርዓት መጀመር,bankruptcy_initiation,verb_phrase,no,Commencement of bankruptcy process,Triggered by petition or court
+የአቤቱታ መልስ,petition_response,noun,no,Debtor response accepting or opposing petition,Procedural right
+የመክሰር ብቃት,bankruptcy_eligibility,noun,no,Legal suitability for bankruptcy proceedings,Evaluated by court
+ወደ መልሶ የማደራጀት መመለስ,reversion_to_reorganization,verb_phrase,no,Conversion from bankruptcy to reorganization,Protective alternative
+የመክሰር መግለጫ,bankruptcy_declaration,noun,no,Formal declaration of bankruptcy status,Public legal status
+ከሞት በኋላ መክሰር,posthumous_bankruptcy,noun,no,Bankruptcy declared after debtor’s death,Special regime
+ወራሽ,heir,noun,no,Successor receiving estate of deceased debtor,Subject to separation rules
+የንብረት መለየት,separation_of_estates,noun,no,Keeping inherited assets separate,Protects heirs
+የመክሰር መቃወሚያ,bankruptcy_opposition,noun,no,Objection against bankruptcy opening,Time limited
+የመክሰር ውሳኔ መፈጸም,bankruptcy_enforcement,noun,no,Immediate execution of bankruptcy judgment,No suspensive effect
+የንብረት ጠባቂ መተካት,estate_administrator_replacement,verb_phrase,no,Replacement of estate administrator,For cause or request
+የተላለፈ ሥልጣን,delegated_authority,noun,no,Limited authority delegated to experts,Requires approval
+የገንዘብ ጠያቂዎች ምክር,creditors_consultation,noun,no,Consultative role of creditors committee,Non binding
+የንብረት እሽግ ማንሳት,lifting_of_seal,verb_phrase,no,Removal of asset seals for inventory or use,Judicially controlled
+የመዝገብ ማስረከብ,records_surrender,noun,no,Delivery of books and records to administrator,Mandatory duty
+የንብረት ሽያጭ,estate_sale,noun,no,Sale of estate assets to satisfy claims,Court supervised
+የሚቀንስ ዋጋ ያላቸው ዕቃዎች,perishable_assets,noun,no,Assets likely to lose value quickly,Eligible for early sale
+የገቢ እና ወጪ ሒሳብ,income_expense_account,noun,no,Accounting of estate cash flows,Transparency tool
+
+legal_term,sense_id,plain_term,category,change_allowed,context,notes
+የምስክር ወረቀት,formal_certificate,የምስክር ወረቀት,noun,no,Document issued to formally attest completion or compliance,Legal proof document
+የተመዘገበ ሥራ ተቋራጭ,registered_contractor,የተመዘገበ ሥራ ተቋራጭ,noun,no,Contractor officially registered with the competent authority,Registration status is legally material
+ዋስትና,liability_guarantee,ዋስትና,noun,no,Security provided to cover potential damage or loss,Distinct from insurance
+የመሬት አጠቃቀም,land_use,የመሬት አጠቃቀም,noun,no,Legal designation of land utilization,Planning law concept
+አጠቃላይ ፕላን,master_plan,አጠቃቃይ ፕላን,noun,no,Approved national, regional, or city master plan,Has legal supremacy
+መርሃ-ግብር,program_framework,መርሃ-ግብር,noun,no,Formally approved program or scheme,Context dependent term
+የተፋጠነ ትምህርት,accelerated_education,የተፋጠነ ትምህርት,noun,no,Alternative education delivered through accelerated methods,Defined statutory concept
+የተፋጠነ ዝውውር,accelerated_promotion,የተፋጠነ ዝውውር,noun,no,Fast-track grade progression without waiting full academic calendar,Distinct from regular promotion
+የግዴታ ትምህርት,compulsory_education,የግዴታ ትምህርት,noun,no,Education mandated by law for specified age groups,Core legal obligation
+የመግቢያ ዕድሜ,entry_age,የመግቢያ ዕድሜ,noun,no,Legally defined age for school admission,Age thresholds strictly regulated
+ሕጋዊ ደረሰኝ,legal_receipt,ሕጋዊ ደረሰኝ,noun,no,Official receipt recognized by law,Required for payments
+የክፍል ዝውውር,grade_promotion,የክፍል ዝውውር,noun,no,Movement of a student from one grade to the next,Subject to performance criteria
+አስገዳጅ የሕግ ትርጉም,binding_interpretation,አስገዳጅ የሕግ ትርጉም,noun,no,Authoritative legal interpretation binding on courts,Has normative legal effect
+
+legal_term,sense_id,plain_term,category,change_allowed,context,notes
+ሐቀኝነት የጎደለው ተግባር,bad_faith_act,ሐቀኝነት የጎደለው ተግባር,verb_phrase,no,Acts committed without good faith by the debtor,Triggers adverse procedural consequences
+ወዲያውኑ,immediate_effect,ወዲያውኑ,connector,no,Indicates immediate legal effect without delay,Temporal legal force
+አቤቱታ ማቅረብ,petition_filing,አቤቱታ ማቅረብ,verb_phrase,no,Formal submission of a petition to a court,Procedural initiation act
+ንዑስ አንቀጽ,sub_article,ንዑስ አንቀጽ,noun,no,Subdivision of a legal article,Used for precise legal reference
+ማስረዳት,proof_establishment,ማስረዳት,verb_phrase,no,Establishing facts with evidence before court,Burden of proof concept
+የግለ ኃላፊነት,personal_liability,የግለ ኃላፊነት,noun,no,Individual liability imposed on a person,Distinct from institutional liability
+ከዕዳዎች ነጻ መሆን,debt_discharge,ከዕዳዎች ነጻ መሆን,verb_phrase,no,Release of debtor from remaining debts after procedure,Conditional legal relief
+ቀሪ ያልታወቁ ዕዳዎች,unknown_residual_debts,ቀሪ ያልታወቁ ዕዳዎች,noun,no,Debts not known at time of closure,Included in discharge
+መልሶ መክፈት,reopening_procedure,መልሶ መክፈት,verb_phrase,no,Reopening a closed insolvency procedure,Exceptional remedy
+የምዝገባ መሰረዝ,deregistration,የምዝገባ መሰረዝ,verb_phrase,no,Removal from official commercial register,Legal status change
+የሰውነት መብት,legal_personality,noun,no,Recognition as a legal person under law,Foundational legal status
+የፕላን ስምምነት,plan_conformity_clearance,noun,no,Official confirmation that a design conforms to urban plans,Precondition for permit
+የማስቆሚያ ትዕዛዝ,stop_work_order,noun,no,Order to halt construction activities,Enforcement measure
+አስጊ ሕንፃ,dangerous_building,noun,no,Building posing safety or structural risk,Triggers intervention
+የመጠቀሚያ ፈቃድ,occupancy_permit,noun,no,Authorization to use a completed building,Use without it is prohibited
+የጊዜ ገደብ,time_limit,noun,no,Legally fixed time period for an act or validity,Procedural constraint

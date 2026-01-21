@@ -1,0 +1,498 @@
+[
+
+  {
+    "legal_sentence": "1141. ይህን ድንጋጌ የጣሱ መልሶ የማደራጀት ኃላፊዎች እና የከሰረው ሰው ንብረት ጠባቂዎች ከኃላፊነታቸው ይነሳሉ ።",
+    "simplified_sentence": "ይህን ሕግ የጣሰ ኃላፊ ወዲያውኑ ከሥራው ይነሳል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1839. የግንባታ ሥራው ሲጠናቀቅ በዚህ አንቀጽ ንዑስ አንቀጽ / መሰረት ከፍተኛ የህንጻ ዲዛይን ባለሙያ የፈረመበትና መጠናቀቁን የሚያረጋግጥ ምስክር ወረቀት ለተቋሙ መቅረብ ይኖርበታል ፡፡",
+    "simplified_sentence": "ሥራው ሲያልቅ በከፍተኛ ዲዛይን ባለሙያ የተፈረመ የምስክር ወረቀት ለተቋሙ መቅረብ አለበት።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "336.  የማህበሩ ሀብት እንዳሆን የዓይነት መዋጮ ገቢ ያደረገ ሸሪክ ማህበሩ ሲፈርስ ያስገባውን መዋጮ በዓይነት መልሶ መውሰድ አይችልም ፤",
+    "simplified_sentence": "በንብረት መዋጮ ያደረገ አባል ማህበሩ ሲፈርስ ንብረቱን መልሶ መውሰድ አይችልም።",
+    "simplification_type": "structure_reordering"
+  },
+  {
+    "legal_sentence": "1015. የተቀጥሎ ኩባንያው ባለአክሲዮኖች እናት ኩባንያው ወይም በእርሱ የተወከለ ሌላ ሰው አክሲዮናቸውን እንዳገዛቸው በፍርድ ቤት መጠየቅ ይችላል ።",
+    "simplified_sentence": "የተቀጥሎ ኩባንያ ባለአክሲዮኖች እናት ኩባንያው አክሲዮናቸውን እንዲገዛቸው ለፍርድ ቤት ማመልከት ይችላሉ።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "619. ጉዳዩ በዕለቱ በአጀንዳነት ባይያዝም ጠቅላላ ጉባኤው በጉዳዩ ላይ ውሳኔ መስጠት ይችላል ።",
+    "simplified_sentence": "ጠቅላላ ጉባኤው ክስ ስለማቅረብ አስቀድሞ በአጀንዳ ባይያዝም ውሳኔ መስጠት ይችላል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "407. የአደራጆች የድካም ዋጋ አክሲዮን በመስጠት መክፈል አይቻልም ፡፡",
+    "simplified_sentence": "ለአደራጆች የድካም ዋጋ አክሲዮን መስጠት አይፈቀድም።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "21. ሆኖም ወጪዎቹ በከሠረው ሰው ንብረት ጠባቂ በጽሁፍ የጸደቁ ከሆነ ያወጧቸውን ወጪዎች የመጠየቅ መብት አላቸው ።",
+    "simplified_sentence": "ንብረት ጠባቂው በጽሁፍ ካረጋገጠላቸው ያወጡትን ወጪ እንዲመለስላቸው የመጠየቅ መብት አላቸው።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1005. የእናት ኩባንያው ለተቀጥሎ ኩባንያው አመራር ወይም ትዕዛዝ የመስጠት መብት ፬፻፰ የንግድ ሕግ እናት ኩባንያ እንደባለአክሲዮን በጠቅላላ ጉባኤ በሚሳተፍበት ጊዜ፣ በዳይሬክተሮች ቦርድ እንዲሁም በከፍተኛ የሥራ አመራሩ አማካኝነት ለተቀጥሎው ኩባንያ አመራር ወይም ትዕዛዝ መስጠት ይችላል ።",
+    "simplified_sentence": "በአንቀጽ 408 መሠረት እናት ኩባንያው እንደ ባለአክሲዮን፣ በቦርድ ወይም በሥራ አመራሩ በኩል ለተቀጥሎ ኩባንያ ትዕዛዝ መስጠት ይችላል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "427. በፈራሚዎች ጉባኤ በሙሉ ድምፅ ተቀባይነት ካልገኘ በስተቀር ፤",
+    "simplified_sentence": "በጉባኤው በሙሉ ድምፅ ካልጸደቀ በስተቀር፤",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "891. በዚህ አንቀጽ ንዑስ አንቀጽ (2) መሰረት ማህበሩ አክሲዮኖችን ሲገዛ ክፍያው ለማህበረተኞች ሊከፋፈል ከሚችለ የመጠባበቂያ ገንዘብ መፈጸም አለበት ።",
+    "simplified_sentence": "ማህበሩ አክሲዮኖችን ሲገዛ ክፍያው የሚፈጸመው ለባለአክሲዮኖች ከሚከፋፈል ተቀማጭ ገንዘብ ላይ መሆን አለበት።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "314. ሠ) ሌሎች ከመመስረቻ ጽሁፍና ከማህበሩ ሸሪክነት የሚመነጩ ግዴታዎችን የመወጣት ፤",
+    "simplified_sentence": "ከመመስረቻ ጽሁፍ የሚመነጩ ሌሎች ግዴታዎችን የመፈጸም ግዴታ አለበት።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "498. ይህ ሕግ ከመውጣቱ በፊት ሊመጪው ተብሎ ለተጻፈበት አክሲዮን በባለአክሲዮኑ ስም የተመዘገበ ጊዜያዊ የምስክር ወረቀት የተሰጠ እንደሆነ የምስክር ፩፺ የንግድ ሕግ ወረቀቱን ወደሌላ ሰው ማስተላለፍ የሚቻለው ዕዳን ስለማስተላለፍ በተቀመጡ ድንጋጌዎች መሰረት ነው ።",
+    "simplified_sentence": "አንቀጽ 190 የንግድ ሕግ፦ በስም የተመዘገበ ጊዜያዊ የምስክር ወረቀት ለሌላ ሰው የሚተላለፈው የዕዳ ዝውውር ደንብን በመከተል ነው።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1838. በዚህ አንቀጽ ንዑስ አንቀጽ 1 የተደነገገው እንደተጠበቀ ሆኖ የፕሮጀክት ትግበራ ስራን የማስተባበር ስራ የሚሰራው የህንፃ ዲዛይን ባለሙያው ነው ፡፡",
+    "simplified_sentence": "የግንባታ ሥራውን የማስተባበር ኃላፊነት የሕንፃ ዲዛይን ባለሙያው ነው።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1350. በተቆጣጣሪ ዳኛው የተሰጠው ውሳኔ ውሳኔው በተሰጠ በአስር ቀናት ውስጥ ይግባኝ ሊቀርብበት ይችላል ።",
+    "simplified_sentence": "ዳኛው በሰጠው ውሳኔ ላይ በ 10 ቀናት ውስጥ ይግባኝ ማለት ይቻላል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "343. ∙ የማህበሩ መመሥረቻ ጽሁፍ ፩፻፴፩ የንግድ ሕግ የማህበሩ መመስረቻ ጽሁፍ በዚህ ሕግ አንቀጽ ፩፻፹፭ ሥር ከተዘረዘሩት ጉዳዮች በተጨማሪ ኃላፊነታቸው ያልተወሰነውን እና የተወሰነውን ሸሪኮች ስም ለይቶ መያዝ አለበት ፡፡",
+    "simplified_sentence": "አንቀጽ 131 መሠረት የማህበሩ መመስረቻ ጽሁፍ ኃላፊነታቸው የተወሰነና ያልተወሰነ አባላትን ስም ለይቶ መጥቀስ አለበት።",
+    "simplification_type": "structure_reordering"
+  },
+  {
+    "legal_sentence": "944. ጉባኤው ሕጉ በሚያዘው ሥርዓት እስከተጠራ እና አስፈላጊው የካፒታል መጠን እስከተወከለ ድረስ ውሳኔ ማሳለፍ ይቻላል ፤",
+    "simplified_sentence": "አስፈላጊው ካፒታል ከተወከለ ጉባኤው ውሳኔ ማሳለፍ ይችላል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "43. በነጻነት ስለመወሰን ፪፻፳ የንግድ ሕግ አንድ የዳይሬክተሮች ቦርድ አባል ኃላፊነቱን በሚወጣበት ጊዜ በነጻነትና በመሰለው መንገድ መወሰን አለበት ።",
+    "simplified_sentence": "በንግድ ሕግ አንቀጽ 220 መሠረት የቦርድ አባል ሥራውን ሲያከናውን በነጻነት የመወሰን ግዴታ አለበት።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "783. እንዲሁም በስማቸው የተላኩ የጥሪ ማስታወቂያዎችን ይቀበላል ።",
+    "simplified_sentence": "ወኪሎቹ በስማቸው የሚላኩ ማስታወቂያዎችን ይቀበላሉ።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1764. 5.የከተማ ተቋም ተግባር እና ኃላፊነት ተቋሙ የሚከተሊት ተግባር እና ኃላፊነቶች ይኖሩታል፡- የግንባታ ፈቃድ ለመውሰድ ማመልከቻ ሲቀርብለውት ዳዛይኑ ከዚህ አዋጅ፣ ከሌሎች ሕጐች እና በስራ ላይ ያላ የኢትዮጵያ የህንጻ ስታንዳርዶችን የተከተለ መሆኑን በማረጋገጥና በማፅደቅ የግንባታ ፈቃድ ይሰጣል ፤",
+    "simplified_sentence": "ተቋሙ የቀረበለት ዲዛይን ሕጉንና ስታንዳርዱን መከተሉን አረጋግጦ የግንባታ ፈቃድ መስጠት አለበት።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1324. ፍርድ ቤቱ አጠራጣሪ በሆነው ጊዜ ውስጥ በባለዕዳው የተከናወኑ ማናቸውንም ድርጊቶች ፈራሽ ሊያደርግ ይችላል ።",
+    "simplified_sentence": "ፍርድ ቤቱ በዚያ ጊዜ ውስጥ የተከናወኑ ድርጊቶችን ሊሰርዝ ይችላል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "975. በማናቸውም ምክንያት ማህበሩ ከፈረሰ በኋላ ገንዘብ ጠያቂዎች የቀረቡ እንደሆነ አባል በግለ ተጠያቂ ይሆናል ።",
+    "simplified_sentence": "ማህበሩ ከፈረሰ በኋላ ዕዳ የጠየቁ ሰዎች ካሉ አባሉ በግል ተጠያቂ ይሆናል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1317. ፭፻፴ የንግድ ሕግ አንቀጽ 6(8)∙ የንብረት ዋስትናቸው ወይም ቅድሚያ የማግኘት መብታቸው ላይ ክርክር የተነሳበት ገንዘብ ጠያቂዎች ማንኛውም ገንዘብ ጠያቂ የንብረት ዋስትና ወይም ቅድሚያ የማግኘት መብት ያለው ከሆነ እና የንብረት ዋስትናው ወይም ቅድሚያ የማግኘት መብቱ ላይ ክርክር የተነሳ ከሆነ ገንዘብ ጠያቂው ዋስትና እንደላለው ገንዘብ ጠያቂ በሥነ ሥርዓቱ ላይ ሊሳተፍ ይችላል ።",
+    "simplified_sentence": "አንቀጽ 530 የንግድ ሕግ እንደሚለው በዋስትና መብቱ ላይ ክርክር የተነሳበት አበዳሪ ዋስትና እንደሌለው አበዳሪ ሆኖ በሂደቱ መሳተፍ ይችላል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "304. ከማህበሩ ትርፍ ድርሻውን የመካፈል ፤",
+    "simplified_sentence": "ከማህበሩ ከሚገኘው ትርፍ ድርሻውን የማግኘት መብት አለው።",
+    "simplification_type": "structure_reordering"
+  },
+  {
+    "legal_sentence": "1157. ሚስጥራዊነት ለጥንቃቄ ዕዳን መልሶ የማዋቀር ሥነ ሥርዓት መከፈቱ እንዲሁም በሥነ ሥርዓቱ ወቅት የሚደረጉ የመረጃ ለውውጦች እና ዕዳን መልሶ የማዋቀር ዕቅድን ጨምሮ ጥብቅ በሆነ መልኩ በሚስጥር መያዝ አለባቸው ፤",
+    "simplified_sentence": "የዕዳ ማዋቀር ሂደቱና በውስጡ ያሉ መረጃዎች ሁሉ በሚስጥር መያዝ አለባቸው።",
+    "simplification_type": "structure_reordering"
+  },
+  {
+    "legal_sentence": "12. ፪፻፷፰ የንግድ ሕግ አንቀጽ 3(). የጉባኤው ድምፅ ቆጣሪዎች ፈቃደኛ ከሆኑ በባለአክሲዮንነትም ሆነ በወኪልነት ስም በጉባኤው ስብሰባ ላይ ከተገኙት ውስጥ ከፍተኛ ድርሻ ባላቸው አባላት መካከል በየሚደረግ በስምምነት የተወሰኑት ባለአክሲዮኖች ድምፅ ቆጣሪ ይሆናል ።",
+    "simplified_sentence": "በንግድ ሕግ አንቀጽ 268 መሠረት ከፍተኛ ድርሻ ካላቸውና በስብሰባው ላይ ከተገኙ ባለአክሲዮኖች መካከል በስምምነት የሚመረጡት ድምፅ ቆጣሪ ይሆናሉ።",
+    "simplification_type": "structure_reordering"
+  },
+  {
+    "legal_sentence": "665. በዚህ አንቀጽ መሰረት ሥራዎችን ለማከናወን የተደረገውን አስፈላጊ ወጪ ሁሉ መሸፈን አለበት ፡፡",
+    "simplified_sentence": "ለእነዚህ ሥራዎች የሚያስፈልገውን ወጪ ሁሉ ማህበሩ መሸፈን አለበት።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1178. ዕዳን መልሶ የማዋቀር ዕቅድን በሚያጸድቅበት ጊዜ ፍርድ ቤቱ፡- ፬፻፹፰ የንግድ ሕግ ሀ) በተለይም ደግሞ ዋስትና ከመያዝ እና አዲስ ገንዘብ ከሚቀርብበት ማዕቀፍ ጋር በተያያዘ የሦስተኛ ወገኖች ጥቅሞች በበቂ ሁኔታ መጠበቃቸውን ፤",
+    "simplified_sentence": "አንቀጽ 488 የንግድ ሕግ እንደሚለው ፍርድ ቤቱ የሌሎች ሰዎችን ጥቅም መከበሩን ማረጋገጥ አለበት።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1245. መልሶ የማደራጀት ሥነ ሥርዓት ለመክፈት ወይም ለመዝጋት የተሰጠው ፍርድ ቅጂ ለባለዕዳው፣ መልሶ ለማደራጀት ኃላፊው እና አቤቱታ ሊቀረበው ገንዘብ ጠያቂ ፍርዱ እንደተሰጠ ወዲያውኑ ይላካል ፤",
+    "simplified_sentence": "የውሳኔው ቅጂ ለባለዕዳው፣ ለኃላፊውና ለአበዳሪው ወዲያውኑ መላክ አለበት።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "629. ጠቅላላ ጉባኤው የተቆጣጣሪ ቦርድ አባላትን በማንኛውም ጊዜ ሊሽራቸው ይችላል ፤",
+    "simplified_sentence": "ጠቅላላ ጉባኤው የተቆጣጣሪ ቦርድ አባላትን በማንኛውም ጊዜ ከሥራ ሊያነሳቸው ይችላል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "454. ባለአክሲዮኑ የተባለውን ገንዘብ ሳይከፍል የቀረ እንደሆነ ማህበሩ አክሲዮኑን በአንቀጽ ፪፻፹፱ መሰረት መሸጥ ይችላል ።",
+    "simplified_sentence": "ባለአክሲዮኑ ገንዘቡን ካልከፈለ ማህበሩ አክሲዮኑን በአንቀጽ 289 መሠረት መሸጥ ይችላል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1474. በሚለጠፈ ወይም ማስታወቂያዎችን ለመቀበል በተፈቀደሊቸው ጋዜጣዎች ለሚወጡ ፍርዶች ግን ይህ ጊዜ መቆጠር የሚጀምረው ማስታወቂያው ከወጣበት ቀን ጀምሮ ይሆናል ።",
+    "simplified_sentence": "በጋዜጣ ለሚወጡ ማስታወቂያዎች ግን የ 10 ቀኑ ጊዜ የሚቆጠረው ማስታወቂያው ከወጣበት ቀን ጀምሮ ነው።",
+    "simplification_type": "structure_reordering"
+  },
+  {
+    "legal_sentence": "816. ፫፻፴፬ የንግድ ሕግ አክሲዮኖቹ በስም የተመዘገቡ ከሆነ ማህበሩ የአክሲዮን ሽያጭ ከመጀመሩ አስር ቀናት በፊት ማስታወቂያውን በተመዘገበ ደብዳቤ ለባለአክሲዮኖቹ መላክ ይችላል ፡፡",
+    "simplified_sentence": "በአንቀጽ 334 የንግድ ሕግ መሠረት አክሲዮኖች በስም ከተመዘገቡ ማህበሩ ሽያጭ ከመጀመሩ 10 ቀናት በፊት ለባለአክሲዮኖች በደብዳቤ ማሳወቅ አለበት።",
+    "simplification_type": "structure_reordering"
+  },
+  {
+    "legal_sentence": "328. ፩፻፳፫ የንግድ ሕግ አንቀጽ 24∙ የማህበሩ ውሳኔ አሰጣጥ የማህበሩን መመስረቻ ጽሁፍ ለመለወጥ ወይም ጠበቃ ለመሾም ወይም በማህበሩ ከተለመደው ሥራ ውጭ ለማከናውን የማህበሩ ሸሪኮች ሙሉ ስምምነት ያስፈልጋል ።",
+    "simplified_sentence": "አንቀጽ 204 መሠረት መመስረቻ ጽሁፍ ለመቀየር ወይም ከተለመደው ውጭ የሆኑ ሥራዎችን ለመሥራት የአባላቱ ሙሉ ስምምነት ያስፈልጋል።",
+    "simplification_type": "structure_reordering"
+  },
+  {
+    "legal_sentence": "1818. የዚህ አንቀጽ ንዑስ አንቀጽ 2 ድንጋጌ ቢኖርም የታሪካዊ ቅርስነት ዋጋ ያላቸውን ህንፃዎች ለማስፋፋት ወይም ለማሻሻል እንዲሁም ለማደስ ወይም ለመጠገን ወይም ለማፍረስ ሲፈለግ ከሚመለከተው አካል የስራውን ተገቢነት የሚያረጋግጥ የጽሁፍ ስምምነት ማግኘት ይኖርበታል ፡፡",
+    "simplified_sentence": "ታሪካዊ ቅርሶችን ለማደስ ወይም ለማፍረስ ከሚመለከተው መሥሪያ ቤት የጽሁፍ ፈቃድ ማግኘት ያስፈልጋል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "85. ዕቅድን ስለማሳወቅ ፬፻፳፯ የንግድ ሕግ የመዋሃድ ወይም የመከፋፈል ዕቅድ በጠቅላላ ጉባኤ ከጸደቀበት ጊዜ ጀምሮ ባለፈው ሁለት ወራት ውስጥ በየወሩ አንድ ጊዜ አገር ዓቀፍ ስርጭት ባለው ጋዜጣ ለህዝብ መገለፅ አለበት ፤",
+    "simplified_sentence": "በንግድ ሕግ አንቀጽ 427 መሠረት የመዋሃድ ወይም የመከፋፈል ዕቅድ በጋዜጣ ለ 2 ወራት በየወሩ አንድ ጊዜ መታወቅ አለበት።",
+    "simplification_type": "structure_reordering"
+  },
+  {
+    "legal_sentence": "1027. የተከፈለው ማህበር ባለአክሲዮኖች ወይም ሸሪኮች የማህበሩን ንብረት በተከፋፈለት ማህበራት ውስጥ ምትክ አክሲዮኖች ወይም ድርሻ ይሰጣቸዋለ ፤",
+    "simplified_sentence": "የተከፈለው ማህበር ባለቤቶች ንብረቱን በወሰዱት ማህበራት ውስጥ የአክሲዮን ድርሻ ይሰጣቸዋል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1801. ሌላው አንድ ቅጂ ደግሞ በተቋሙ ዘንድ ይቀመጣል ፡፡",
+    "simplified_sentence": "ሌላው አንድ ቅጂ በተቋሙ ዘንድ ይቀመጣል።",
+    "simplification_type": "deletion"
+  },
+  {
+    "legal_sentence": "942. 382 የንግድ ሕግ አንቀጽ 55. የመደበኛ ጠቅላላ ጉባኤ ምልዓተ ጉባኤ እና አብላጭ ድምፅ ጉባኤ ለማካሄድ ከማህበሩ ዋና ገንዘብ ከግማሽ በላይ የያዙ ባለአክሲዮኖች ወይም የያዘ ባለአክሲዮን በስብሰባው ላይ መገኘት አለባቸው ወይም አለበት ።",
+    "simplified_sentence": "በአንቀጽ 382 መሠረት ስብሰባ ለማካሄድ ከግማሽ በላይ ካፒታል ያላቸው አባላት መገኘት አለባቸው።",
+    "simplification_type": "structure_reordering"
+  },
+  {
+    "legal_sentence": "962. በዚህ አንቀጽ በንዑስ አንቀጽ (2) ሥር የተደነገገው ቢኖርም ፤",
+    "simplified_sentence": "በንዑስ አንቀጽ (2) የተጠቀሰው ቢኖርም የሚከተለው ይፈጸማል።",
+    "simplification_type": "deletion"
+  },
+  {
+    "legal_sentence": "842. ማህበሩ ያለው ሀብት ዕዳዎቹን ለመክፈል በቂ እንደማይሆን ከተገመተ ሒሳብ አጣሪዎች ባለአክሲዮኖች ገቢ ያላደረጉት መዋጮ ካለ ማስከፈለ ይኖርባቸዋል ።",
+    "simplified_sentence": "የማህበሩ ንብረት ዕዳ ለመክፈል ካልበቃ አጣሪዎች ባለአክሲዮኖች ያልከፈሉትን መዋጮ ማስከፈል አለባቸው።",
+    "simplification_type": "structure_reordering"
+  },
+  {
+    "legal_sentence": "974. በማህበሩ ምሥረታ ጊዜ በተሰጠ መግለጫ ውስጥ የተካተቱትን ነገሮች የሚለውጥ ማንኛውም ውሳኔ ውሳኔው ከተሰጠበት ቀን ጀምሮ በአንድ ወር ጊዜ ውስጥ በንግድ መዝገብ ውስጥ መግባት አለበት ።",
+    "simplified_sentence": "መግለጫውን የሚቀይር ማንኛውም ውሳኔ በ 1 ወር ውስጥ በንግድ መዝገብ ውስጥ መመዝገብ አለበት።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1646. ንብረት ማጣራት እና የክፍያ ጥያቄዎችን መክፈል ክፍል አንድ ንብረት ማጣራት አንቀጽ ፯፻፸፭∙ የከሰረውን ሰው ንብረት ስለማጣራት በዚህ ሕግ አንቀጽ 74 መሰረት የንግድ ሥራው የቀጠለ እንደሆነ የሚቀጥለበት ጊዜ ሲያበቃ የከሰረው ሰው ንብረት እንዳጣራ እና ክፍያ ማግኘት የሚገባቸው ገንዘብ ጠያቂዎች በዚህ ምዕራፍ ውስጥ በተቀመጠው የክፍያ ቅድም ተከተለ መሰረት እንዲከፍላቸው ፍርድ ቤቱ ያዛል ።",
+    "simplified_sentence": "የንግድ ሥራው ሲቆም ፍርድ ቤቱ ንብረቱ እንዲጣራና ለገንዘብ ጠያቂዎች ክፍያ እንዲፈጸም ያዛል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "968. በዚህ አንቀጽ በንዑስ አንቀጽ (5) መሰረት የሚቀርብ ክስ የዓይነት መዋጮው በተገቢው ሁኔታ ከተደረገበት ጊዜ ጀምሮ በአምስት ዓመት ውስጥ ካልቀረበ ተቀባይነት የለውም ፡፡",
+    "simplified_sentence": "ስለ ንብረት ግምት የሚቀርብ ክስ በ 5 ዓመት ውስጥ ካልቀረበ ኃይል የለውም።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "867. ፫፻፷ የንግድ ሕግ 3 የዚህ አንቀጽ ንዑስ አንቀጽ (1) ድንጋጌ ቢኖርም ፤",
+    "simplified_sentence": "በአንቀጽ 360 መሠረት ደንቡ ይፈጸማል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1291. ፭፻፳፬ የንግድ ሕግ ለ) የታክስ እና ቀረጥ ክፍያ የሚጠይቁ የመንግስት አካላት ፤",
+    "simplified_sentence": "አንቀጽ 524 የንግድ ሕግ እንደሚለው የታክስ መሥሪያ ቤቶችም የዕዳ ጥያቄ ማቅረብ አይጠበቅባቸውም።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "102. እንግዲህ አሁን በተያዘው ጉዲይ ይህ አስገዳጅ የሕግ ትርጉም መለወጥ አለበት ወይስ የለበትም? የሚለው ነጥብ ነው መታየት ያሇበት ጉዲይ ነው ።",
+    "simplified_sentence": "አሁን መታየት ያለበት ዋናው ነጥብ ይህ አስገዳጅ የሕግ ትርጉም መለወጥ አለበት ወይስ የለበትም የሚለው ነው።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "291. ማህበሩ ከንግድ መዝገብ ከተሰረዘበት ዕለት በሚቀጥለው ቀን ጀምሮ ሕጋዊ ሰውነት አይኖረውም ።",
+    "simplified_sentence": "ማህበሩ ከመዝገብ ከተሰረዘበት ቀን በኋላ ሕጋዊ ሰውነቱ ያበቃል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1521. ለ) በዚህ ሕግ አንቀጽ 8፻3 ውስጥ የተመለ ከቱት በተጨባጭ ወይም በሕጉ መሰረት ሥራ አስኪያጅ የሆኑ ሰዎች ላይ የሚቀርቡትን ጨምሮ በሦስተኛ ወገኖች ላይ የሚቀርቡ የፍትሐ ብሔር ኃላፊነት ጥያቄዎች ፤",
+    "simplified_sentence": "በአንቀጽ 803 መሰረት በሥራ አስኪያጆችና በሌሎች ሰዎች ላይ የሚቀርቡ የፍትሐ ብሔር የካሳ ጥያቄዎች ተጠያቂ ይሆናሉ።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "736. ማንኛውም ባለአክሲዮን በሌላ ባለአክሲዮን ወይም ባለአክሲዮን ባልሆነ ሰው ሊወከል ይችላል ፡፡",
+    "simplified_sentence": "ማንኛውም ባለአክሲዮን በሌላ ሰው ሊወከል ይችላል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "305. ስለማህበሩ አሰራር ጥያቄ የማቅረብ፣የሒሳብ መግለጫዎችን እና ሰነዶችን የማየት ፤",
+    "simplified_sentence": "ስለ ማህበሩ አሠራር የመጠየቅ እንዲሁም የሒሳብ መግለጫዎችንና ሰነዶችን የማየት መብት አለው።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1441. መልሶ የማደራጀት ኃላፊው አግባብነት ካለው የገንዘብ ጠያቂዎች መደቦችን በጥንቃቄ ይመድባል እንዲሁም መልሶ የማደራጀት ዕቅድን ድምፅ እንዳጥበት ለገንዘብ ጠያቂዎች መደቦች ስብሰባዎች ወይም ለየገንዘብ ጠያቂዎች ጠቅላላ ጉባኤ ያቀርባል ።",
+    "simplified_sentence": "ኃላፊው አበዳሪዎችን በመከፋፈል ዕቅዱን ድምፅ እንዲሰጡበት ያቀርባል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1497. የከሰረው ሰው ንብረት ጠባቂ፡- ሀ) ሂሳቦቹን ማረጋገጥን ፤",
+    "simplified_sentence": "ንብረት ጠባቂው ሂሳቦችን ስለማረጋገጥ፣",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "605. በዚህ አንቀጽ ንዑስ አንቀጽ (1) የተጣለው ክልከላ ከዳይሬክተርነት በተነሳ ሰው ላይም ተፈፃሚ ይሆናል ፡፡",
+    "simplified_sentence": "በንዑስ አንቀጽ 1 ላይ ያለው ክልከላ ከዳይሬክተርነት ሥራ በለቀቀ ሰው ላይም መፈጸም አለበት።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "828. እንዲሁም በማንኛውም አካል ቢሾሙም ሒሳብ አጣሪዎችን በዚህ አንቀጽ ንዑስ አንቀጽ (2) በተጠቀሱት ሰዎች አመለካችነት በበቂ ምክንያት ፍርድ ቤት ሊሽራቸው ይችላል ።",
+    "simplified_sentence": "ፍርድ ቤት በማንኛውም አካል የተሾሙ አጣሪዎችን በበቂ ምክንያት ከሥራ ሊያነሳቸው ይችላል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1939. የትምህርት ደረጃና ጥራት ቁጥጥርና ክትትል ሥራ በሁሉም ክልሎች በሚገኙ የአጠቃላይ ትምህርት ተቋማት ዓይነቶችና ዕርከኖች ይካሄዳል ፡፡",
+    "simplified_sentence": "የትምህርት ጥራት ፍተሻ በሁሉም ክልሎች በሚገኙ ትምህርት ቤቶች ይካሄዳል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "917. በተሻረው ምትክ ሌላ ሥራ አስኪያጅ እስኪሾም ድረስ ጊዜ የሚወስድ ከሆነ እንደቅድም ተከታታዮቹ ምክትለ ሥራ አስኪያጅ ወይም የዳይሬክተሮች ቦርድ ሊቀመንበር የተሻረውን ሥራ አስኪያጅ ተክቶ ይሠራለ ፡፡",
+    "simplified_sentence": "ሌላ ሰው እስኪሾም ድረስ ምክትል ሥራ አስኪያጁ ወይም የቦርድ ሊቀመንበሩ ተክቶ ይሠራል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "143. ማመልከቻው የሚታየው የሦስት ወሩ የጊዜ ገደብ ካለቀ በኋላ ሲሆን ብዙ ማመልከቻዎች ካለም በአንድነት ይታያለ ፤",
+    "simplified_sentence": "ማመልከቻዎች የሚታዩት ከ3 ወር በኋላ ነው። ብዙ ማመልከቻዎች ካሉ ደግሞ በአንድ ላይ ሊታዩ ይችላሉ።",
+    "simplification_type": "sentence_splitting"
+  },
+  {
+    "legal_sentence": "711. የጉባኤው ውሳኔዎች ውጤት በሕግ ወይም በማህበሩ መመስረቻ ጽሁፍ መሰረት በጉባኤ መተላለፍ የሚችለ ውሳኔዎች በስብሰባው ላይ ባልተገኙ፣ ድምፀ ተአቅቦ ባደረጉ፣ በሀሳብ በተለዩ፣ ችሎታ በሌላቸዉ ወይም ድምፅ የመስጠት ፪፻፸፰ የንግድ ሕግ መብት በተከለከለ ባለአክሲዮኖች ላይ ሁሉ ተፈፃሚ ይሆናል ።",
+    "simplified_sentence": "በንግድ ሕግ አንቀጽ 278 መሠረት፣ በጉባኤው የተላለፉ ውሳኔዎች በስብሰባው ባልነበሩ ወይም ድምፅ ባልሰጡ ባለአክሲዮኖች ላይ ሁሉ መፈጸም አለባቸው።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1100. የገንዘብ ጠያቂዎች ተሳትፎ ገንዘብ ጠያቂዎች በሥነ ሥርዓቶች ወቅት በአጠቃላይ አስተያየታቸውን የማቅረብ እና ፍርድ ቤት ጉዳዮችን በሚሰማበት ጊዜ የመሰማት መብት አላቸው ።",
+    "simplified_sentence": "አበዳሪዎች በሂደቱ ላይ አስተያየት የመስጠትና ፍርድ ቤት የመሰማት መብት አላቸው።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1089. ማናቸውም የውል ድንጋጌዎች ቢኖሩም የከሰረው ሰው ንብረት ጠባቂ የኪራይ ስምምነቶችን ለተቀረው ጊዜ ያህለ ሊያስተላለፍ ይችላል ፤",
+    "simplified_sentence": "የንብረት ጠባቂው የኪራይ ውልን ለሌላ ሰው ማስተላለፍ ይችላል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1679. ገንዘብ ጠያቂዎች ማስታወቂያ በደረሳቸው በአስር ቀናት ውስጥ ለተቆጣጣሪ ዳኛው ውሳኔ የሚሰጥበት ተቃውሞ ለማቅረብ ይችላል ፤",
+    "simplified_sentence": "ገንዘብ ጠያቂዎች ማሳወቂያው በደረሳቸው በ10 ቀናት ውስጥ ለተቆጣጣሪ ዳኛው ተቃውሞ ማቅረብ ይችላሉ።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "725. የማህበሩ መደበኛ ጠቅላላ ጉባኤ ልዩ መርማሪ እንዲሾም የቀረበለትን ሀሳብ ውድቅ ያደረገ እንደሆነ በማህበሩ ዋና ገንዘብ ውስጥ ቢያንስ /10ኛ (ከአስር አንድ እጅ) የሚወክለ አክሲዮኖች ያለዋቸው ማህበረተኞች ጥያቄያቸውን ለፍርድ ቤት ማቅረብ ይችላል ፤",
+    "simplified_sentence": "ጉባኤው መርማሪ ለመሾም የቀረበውን ሀሳብ ውድቅ ካደረገ፣ 10 በመቶ ድርሻ ያላቸው ባለአክሲዮኖች ለፍርድ ቤት ማመልከት ይችላሉ።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1625. በተለይም የከሰረው ፮፻፳፫ የንግድ ሕግ ሰው ንብረት ጠባቂ በተጠቀሰው አንቀጽ መሰረት መልሶ የማደራጀት ኃላፊው ሥልጣን ይኖረዋል ፤",
+    "simplified_sentence": "የንብረት ጠባቂው የመልሶ ማደራጀት ኃላፊ ያለውን ሥልጣን ይኖረዋል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "455. ለአክሲዮኑ የሚከፈለ ቀሪ ገንዘብ በማህበሩ በተጠየቀ ጊዜ አክሲዮን በአላባ የተሰጠው ሰው መክፈል አለበት ፤",
+    "simplified_sentence": "በአላባ (ጥቅም) የተሰጠ አክሲዮን ቀሪ ክፍያ ሲጠየቅ የያዘው ሰው መክፈል አለበት።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "822. ፫፻፵፬ የንግድ ሕግ የዚህ አንቀጽ ንዑስ አንቀጽ (1) (ሀ) እና (ለ) ድንጋጌዎች ቢኖሩም የንግድ ማህበራት መዝጋቢው አካል አስፈላጊ ሆኖ ሲያገኘው የጊዜ ገደቡን ለተወሰነ ጊዜ እንዳራዘም ወይም ማህበሩ የአስተዳደር አካላትን አሟለቶ ሥራ እንዳቀጠለ ሊፈቅድ ይችላል ።",
+    "simplified_sentence": "በአንቀጽ 344 የንግድ ሕግ መሠረት መዝጋቢው አካል የጊዜ ገደቡን ሊያራዝም ይችላል። ማህበሩ ሥራውን እንዲቀጥልም ሊፈቅድ ይችላል።",
+    "simplification_type": "sentence_splitting"
+  },
+  {
+    "legal_sentence": "1368. ጠያቂዎች ጠቅላላ ጉባኤውን ቢያንስ ሁለት ሦስተኛ የክፍያ ጥያቄዎች ያላቸው ገንዘብ ጠያቂዎች መልሶ ፭፻፵፱ የንግድ ሕግ የማደራጀት ዕቅድን ደግፈው ድምፅ ከሰጡ ዕቅድ ተቀባይነት ያገኛል ።",
+    "simplified_sentence": "አንቀጽ 549 የንግድ ሕግ እንደሚለው በአጠቃላይ ስብሰባው ላይ 2/3 ድምፅ ከተገኘ ዕቅዱ ይጸድቃል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1665. በንዑስ አንቀጽ (1) መሰረት ከንብረቶቹ ሽያጭ ከተገኘው ገንዘብ ላይ የተከፈሊቸው ገንዘብ ጠያቂዎች ከዚያ በኋላ ለሚቀራቸው ተከፋይ ገንዘብ ዋስትና እንደሌላቸው ገንዘብ ጠያቂዎች ይስተናገዳል ።",
+    "simplified_sentence": "ከንብረት ሽያጭ ክፍያ አግኝተው ዕዳቸው ሙሉ በሙሉ ካልተከፈለ የቀረው ዕዳ ዋስትና እንደሌለው ዕዳ ይቆጠራል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1355. መልሶ የማደራጀት ኃላፊው ከስብሰባው ቀን አስራ አምስት ቀናት አስቀድሞ በአደራ ደብዳቤ ወይም ተቀባዩ ለመቀበል ማረጋገጫ ሊሰጥበት በሚችለ ሌላ ማንኛውም ኤሌክትሮኒክ መንገድ ለገንዘብ ጠያቂዎች ያሳውቃል ።",
+    "simplified_sentence": "ኃላፊው ከስብሰባው 15 ቀናት በፊት በደብዳቤ ወይም በኢሜይል ለአበዳሪዎች ማሳወቅ አለበት።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1389. በፍርድ ቤቱ ከሚወሰነው አግባብነት ካለው ጊዜ በኋላ መልሶ የማደራጀት ኃላፊው የቀረቡትን ዋጋዎች ድምፅ እንዲሰጥባቸው ለገንዘብ ጠያቂዎች ጠቅላላ ጉባኤ ማቅረብ ይኖርበታል ።",
+    "simplified_sentence": "ኃላፊው የቀረቡትን የመግዣ ዋጋዎች አበዳሪዎች ድምፅ እንዲሰጡባቸው ማቅረብ አለበት።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "851. ሒሳብ አጣሪዎች የአክሲዮኖቹ ዋጋ ሙሉ በሙሉ መከፈሊቸውንና ከአክሲዮኖቹ ጋር የተያያዙ ቀዳሚ መብቶችን ግምት ውስጥ በማስገባት በዚህ አንቀጽ ንዑስ አንቀጽ (1) ላይ የተመለከተውን የድርሻ ክፍፍለ ይወስናል ።",
+    "simplified_sentence": "ሂሳብ አጣሪዎች የአክሲዮን ክፍያዎችንና ቅድሚያ መብቶችን በማየት የትርፍ ክፍፍሉን ይወስናሉ።",
+    "simplification_type": "structure_reordering"
+  },
+  {
+    "legal_sentence": "1303. ሕጋዊ ሥልጣን ያለው ፍርድ ቤት ወይም የፍርድ ጉባኤ በክፍያ ጥያቄው ላይ ክርክር የተነሳበት ገንዘብ ጠያቂ ፍርድ ቤቱ ወይም ጉባኤው የሚወስነውን የገንዘብ መጠን በተመለከተ መልሶ በማደራጀት ሥነ ሥርዓቱ ላይ እንዳሳተፍ የሚፈቅድ ከፍርድ በፊት የሚሰጥ ትዕዛዝ ሊሰጥ ይችላል ።",
+    "simplified_sentence": "ፍርድ ቤቱ አበዳሪው በሂደቱ ላይ እንዲሳተፍ ትዕዛዝ ሊሰጥ ይችላል።",
+    "simplification_type": "deletion"
+  },
+  {
+    "legal_sentence": "1001. ሚኒስቴሩ ወይም ይሄው አካል ኩባንያዎቹ በስምምነት ያላቸውን ፬፻፯ የንግድ ሕግ አክሲዮኖች በዚህ አንቀጽ ንዑስ አንቀጽ (2) ሥር በተመለከተው መሰረት ማስተካከያ እንዳያደርጉ ያሳውቃቸዋለ ፤",
+    "simplified_sentence": "ሚኒስቴሩ ወይም ስልጣን ያለው አካል ኩባንያዎቹ በአንቀጽ 407 እና በንዑስ አንቀጽ (2) መሠረት አክሲዮናቸውን በስምምነት እንዳያስተካክሉ ያሳውቃቸዋል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "347. ፩፻፴፫ የንግድ ሕግ ኃላፊነታቸው የተወሰነ የማህበሩ ሸሪኮች በውክልናም ሆነ በሌላ በማንኛውም ሁኔታ የማህበሩ ሥራ አስኪያጅ መሆን አይችልም ፤",
+    "simplified_sentence": "133 የንግድ ሕግ መሠረት ኃላፊነታቸው የተወሰነ አባላት ሥራ አስኪያጅ መሆን አይችሉም።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1618. ዋስትና ያላቸው የብድር ዋና ገንዘብ ወለዶች ለዋስትና ከተመደቡት ንብረቶች ከሚገኙት ገንዘቦች ላይ ካልሆነ በስተቀር ሊጠየቁ አይችልም ።",
+    "simplified_sentence": "የዋስትና ብድር ወለዶች ሊከፈሉ የሚችሉት ለዋስትና ከተያዘው ንብረት ከሚገኝ ገንዘብ ላይ ብቻ ነው።",
+    "simplification_type": "structure_reordering"
+  },
+  {
+    "legal_sentence": "1506. ፭፻፹፱ የንግድ ሕግ ዐቃቤ ሕጉ ምርመራዎቹ በሚስጥር መያዝ ያለባቸው ቢሆኑም ባለዕዳውን የሚመለከቱ የወንጀል ክርክሮችን የሚመለከቱ ጨምሮ ለመክሰር ሥነ ሥርዓቱ አግባብነት ያላቸው ማናቸውንም መረጃዎች በሚጠየቅበት ጊዜ ወይም በራሱ ተነሳሽነት ለተቆጣጣሪ ዳኛው የማሳወቅ ግዴታ አለበት ።",
+    "simplified_sentence": "በንግድ ሕግ አንቀጽ 589 መሠረት ዐቃቤ ሕግ አስፈላጊ የሆኑ መረጃዎችን ለተቆጣጣሪ ዳኛው ማሳወቅ አለበት። መረጃዎቹ ሚስጥር ቢሆኑም ለዳኛው መገለጽ አለባቸው።",
+    "simplification_type": "sentence_splitting"
+  },
+  {
+    "legal_sentence": "1478. ፭፻፸፹ የንግድ ሕግ ምዕራፍ ሁለት የመክሰርን ሥራ የሚያስፈጽሙ ሰዎች እና አካላት ክፍል አንድ ስለፍርድ ቤት አንቀጽ ፯፻05∙ ስለፍርድ ቤት ሥልጣን የዚህ ሕግ አንቀጽ 64 በዚህ ርዕስ መሰረት የመክሰር ሥነ ሥርዓት በሚከፍተው ፍርድ ቤት ላይ ተፈፃሚ ይሆናል ።",
+    "simplified_sentence": "በንግድ ሕግ አንቀጽ 580 እና 705 መሠረት አንቀጽ 644 የመክሰር ሂደት በሚያየው ፍርድ ቤት ላይ መፈጸም አለበት።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "19. ፮፻፲፬ የንግድ ሕግ የከሰረው ሰው ንብረት ጠባቂ የመያዝ መብትን በተመለከተ የመልሶ ማደራጀት ኃላፊው ያለው ሥልጣን ይኖረዋል ።",
+    "simplified_sentence": "በንግድ ሕግ አንቀጽ 614 መሠረት የከሰረው ሰው ንብረት ጠባቂ ከመልሶ ማደራጀት ኃላፊው ጋር እኩል ሥልጣን ይኖረዋል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1638. የእነሱ መቃወም በመክሰር ሥነ ሥርዓት ተቆጣጣሪ ዳኛው ያዘዛቸውን ክፍያዎች አፈጻጸም ሊያግደው አይችልም ፤",
+    "simplified_sentence": "እነዚህ ሰዎች የሚያቀርቡት መቃወሚያ የተፈቀዱ ክፍያዎች እንዳይፈጸሙ ሊያግድ አይችልም።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1668. የመጨረሻ ክፍያዎች አንቀጽ ፯፻፹፭∙ ዋስትና ያላቸው ገንዘብ ጠያቂዎች በብቸኝነት ስለሚቸው መብት የተንቀሳቃሽ እና የማይንቀሳቀሱ ንብረቶች መያዣዎችን ጨምሮ በግልጽ በተቀመጡ ንብረቶች ላይ የንብረት የዋስትና መብት ያላቸው ገንዘብ ጠያቂዎች ዕዳ ያለባቸውን ንብረቶች ለመሸጥ የወጡ ወጪዎች ከተቀነሱ በኋላ ዕዳ ያለባቸው ንብረቶች ተሽጠው በሚገኘው ገንዘብ ላይ በብቸኝነት መብት አላቸው ፡፡",
+    "simplified_sentence": "የዋስትና መብት ያላቸው ሰዎች ንብረቱ ተሸጦ ከሚገኘው ገንዘብ ላይ ቅድሚያ የማግኘት መብት አላቸው። ሆኖም መጀመሪያ የሽያጭ ወጪዎች መቀነስ አለባቸው።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "494. ቀሪ ዋጋቸው ያልተከፈለ አክሲዮኖች ውርስ እንዳሆኑ በተወሰነበት የሒሳብ ማጠቃለያ ዓመት ውስጥ ያልተሸጡ እንደሆነ አክሲዮኖቹ ተሰርዘው ዋና ገንዘቡ በአክሲዮኖቹ ላይ በተጻፈው ዋጋ መጠን መቀነስ አለበት ።",
+    "simplified_sentence": "ያልተሸጡ አክሲዮኖች ተሰርዘው የማህበሩ ካፒታል መቀነስ አለበት።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1126. በሥነ ሥርዓቶች ውስጥ ስለሚሾሙ ሰዎች እና አካላት ቁጥጥር ለጥንቃቄ ዕዳን መልሶ የማዋቀር ዘርፍ ባለሞያዎች፣ መልሶ የማደራጀት ኃላፊዎች እና የከሰረው ሰው ንብረት ጠባቂዎች ለየሞያቸው አግባብነት ያላቸው የሙያ የሥነ ምግባር ደንቦችን እና የሥነ-ምግባር ደረጃዎችን የማክበር ግዴታ አለባቸው ።",
+    "simplified_sentence": "የዕዳ ማዋቀርና የኪሳራ ኃላፊዎች የሙያ ሥነ-ምግባር ደንቦችን የማክበር ግዴታ አለባቸው።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1405. የንግድ ሥራ እንቅስቃሴውን ለመረከብ የቀረበው ዕቅድ በገንዘብ ጠያቂዎች ጠቅላላ ጉባኤ መጽደቅ መልሶ የማደራጀት ዕቅድ በገንዘብ ጠያቂዎች ስብሰባው ወይም በፍርድ ቤቱ ውድቅ ከተደረገ መልሶ የማደራጀት ኃላፊው የንግድ ሥራ እንቅስቃሴው በመንቀሳቀስ ላይ እንዳለ የንግድ ሥራ ለመሸጥ የቀረቡትን ጨረታዎች በገንዘብ ጠያቂዎች ድምፅ እንዲሰጥባቸው ያቀርባል ።",
+    "simplified_sentence": "የማደራጃ ዕቅዱ ተቀባይነት ካጣ ኃላፊው ንግዱን ለመሸጥ የቀረቡ ጨረታዎችን አበዳሪዎች ድምፅ እንዲሰጡባቸው ያደርጋል።",
+    "simplification_type": "sentence_splitting"
+  },
+  {
+    "legal_sentence": "1634. ሥልጣን ያለው ፍርድ ቤት ወይም ጉባኤ መቃወሚያው እንዳያልፍ የወሰነ እንደሆነ በዚያው የከሰረው ሰው ንብረት ጠባቂ ለጊዜው የክፍያ ጥያቄውን እንዲቀበል ትእዛዝ ሊሰጥ ይችላል ።",
+    "simplified_sentence": "ፍርድ ቤቱ አስፈላጊ ሆኖ ሲያገኘው የንብረት ጠባቂው ለጊዜው ክፍያውን እንዲቀበል ሊያዝ ይችላል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1348. ወይም ፭፻፵፫ የንግድ ሕግ ሏ) ያለፈውን አስራ ሁለት ወራት በሚመለከተው የመጨረሻው የሒሳብ መግለጫ መሰረት አጠቃላይ የሀብት መጠኑ ከሃያ ሚሊዮን ብር በታች ከሆነ ነው ።",
+    "simplified_sentence": "አንቀጽ 543 የንግድ ሕግ እንደሚለው ወይም ባለፈው 1 ዓመት የሂሳብ መዝገብ መሠረት አጠቃላይ ሀብቱ ከ 20,000,000 ብር በታች ከሆነ ነው።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "971. ዋና ሥራ አስኪያጁ በዚህ ሕግ መሰረት አንድ ኃላፊነቱ የተወሰነ የግለ ማህበር ሥራ አስኪያጅ ያለው ሥልጣን እና ተጠያቂነት ይኖረዋል ፡፡",
+    "simplified_sentence": "ሥራ አስኪያጁ በሕግ መሠረት የአንድ ኃላፊነቱ የተወሰነ ማህበር ሥራ አስኪያጅ ያለው ሥልጣንና ተጠያቂነት ይኖረዋል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "489. ቀሪ ዋጋቸው ሊልተከፈል አክሲዮኖች ስለሚኖር ኃላፊነት የአክሲዮን ባለይዞታዎች፣ አክሲዮኑ ቀደም ሲለ ተላለፍሊቸው የነበረ ሰዎች እንዲሁም አክሲዮኑን ከማህበሩ ለመግዛት የፈረሙ ሰዎች ቀሪ ዋጋቸው ሊልተከፈል አክሲዮኖች ዋጋ ለማህበሩ በአንድነትና በተናጠል ኃላፊ ናቸው ።",
+    "simplified_sentence": "የአሁኑ ባለቤቶችም ሆኑ የቀድሞ ባለቤቶች ያልተከፈለውን የአክሲዮን ዋጋ ለመክፈል በጋራና በተናጠል ተጠያቂ ይሆናሉ።",
+    "simplification_type": "sentence_splitting"
+  },
+  {
+    "legal_sentence": "1183. ከዚህ ንዑስ አንቀጽ ጋር በተያያዘ የሚነሳ ማንኛውም ፬፻፹፱ የንግድ ሕግ ግጭት ለጥንቃቄ ዕዳን መልሶ የማዋቀር ሥነ ሥርዓቱን በከፈተው ፍርድ ቤት ይሰማለ ።",
+    "simplified_sentence": "አንቀጽ 489 የንግድ ሕግ እንደሚለው በዚህ ላይ ክርክር ቢነሳ ጉዳዩን ሂደቱን የከፈተው ፍርድ ቤት ያየዋል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "589. የመላው ባለአክሲዮኖችን ተጠቃሚነት ለማረጋገጥ መስራት ይኖርባቸዋል ።",
+    "simplified_sentence": "ሁሉንም ባለአክሲዮኖች ተጠቃሚ ለማድረግ መሥራት አለባቸው።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1781. በህንጻዎች ውስብስብነትና ልዩ ልዩ ባህሪያት በስራቸው ካል ከተሞች አቅም በላይ በሆኑ ህንጻዎች ላይ የዲዛይን ማጽደቅ፣ የግንባታ ክትትልና ቁጥጥር ስራዎችን ያከናውናል ፡፡",
+    "simplified_sentence": "ከከተሞች አቅም በላይ የሆኑ ውስብስብ ሕንፃዎችን ዲዛይን የክልል ተቋም ማጽደቅና መቆጣጠር አለበት።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "585. ሠ) የማህበሩ ዋና ገንዘቡ ¾ (ሦስት አራተኛ) በኪሳራ ባጣ ጊዜ ወዲያውኑ አስቸኳይ ጠቅላላ ጉባኤ የመጥራት ፤",
+    "simplified_sentence": "የድርጅቱ ገንዘብ 3/4ኛ በኪሳራ ከጠፋ ወዲያውኑ አስቸኳይ ስብሰባ መጥራት አለበት።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "781. ክፍያው የሚሸፈነውም በባለዕዳው ኩባንያ ይሆናል ።",
+    "simplified_sentence": "ደመወዙን ባለዕዳው ኩባንያ መክፈል አለበት።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "688. ፪፻፷፫ የንግድ ሕግ በሕግ ወይም በማህበሩ የመመሰረቻ ጽሁፍ ተቃራኒ ድንጋጌ ከላለ በስተቀር በአጀንዳው ውስጥ ያልተካተተ ማንኛውም ጉዳይ በጉባኤው ውይይት ሊደረግበት አይችልም ፤",
+    "simplified_sentence": "በአጀንዳው ላይ የሌለ ጉዳይ ላይ መወያየት አይቻልም።",
+    "simplification_type": "deletion"
+  },
+  {
+    "legal_sentence": "1113. የሥራ ቦታው ፬፻፷፫ የንግድ ሕግ ባለዕዳው ሰውን እና ንብረቶችን ተጠቅሞ ጊዜያዊ ያልሆነ የኢኮኖሚ እንቅስቃሴ የሚያደርግበት የሥራ ቦታ ነው ።",
+    "simplified_sentence": "አንቀጽ 463 እንደሚለው፣ የሥራ ቦታ ማለት ባለዕዳው በቋሚነት የንግድ ሥራ የሚሠራበት ቦታ ነው።",
+    "simplification_type": "definition_or_expansion"
+  },
+  {
+    "legal_sentence": "1705. በሕግ ሰውነት ባላቸው አካላት ስለሚፈጸሙ ወንጀሎች የኢትዮጵያ የወንጀል ሕግ አንቀጽ ፴፬ እንደተጠበቀ ሆኖ አንድ የንግድ ማህበር በዚህ ሕግ በአንቀጽ በተደነገጉት ወንጀሎች ጥፊተኛ ሊባል ይችላል ።",
+    "simplified_sentence": "አንድ የንግድ ማህበር በሕጉ መሠረት በፈጸመው ወንጀል ጥፋተኛ ተብሎ ሊቀጣ ይችላል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1185. በዚህ አንቀጽ ንዑስ አንቀጽ (1) መሰረት የሚቀርቡ ይግባኞች ዕዳን መልሶ የማዋቀር ዕቅድን ውድቅ የሚያደርገው ፍርድ በተሰጠ በአስር ተከታታይ ቀናት ውስጥ መቅረብ አለባቸው ።",
+    "simplified_sentence": "ይግባኝ በ 10 ቀናት ውስጥ መቅረብ አለበት።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1609. ንብረቱ ለዕዳ መያዣ በአንድ ገንዘብ ጠያቂ ይዞታ ውስጥ የሚገኝ ካልሆነ በስተቀር የከሰረው ሰው ንብረት ጠባቂ ለዕዳ ማስያዣነት የዋለ ንብረቶችን ጨምሮ ማናቸውንም ንብረቶች ለመሸጥ ሥልጣን አለው ።",
+    "simplified_sentence": "የንብረት ጠባቂው ንብረቶችን የመሸጥ ሥልጣን አለው። ነገር ግን ንብረቱ በዕዳ መያዣነት በገንዘብ ጠያቂው እጅ የሚገኝ ከሆነ መሸጥ አይችልም።",
+    "simplification_type": "sentence_splitting"
+  },
+  {
+    "legal_sentence": "575. ለዳይሬክተሮች ቦርድ አባላት ወይም ለዋና ሥራ አስኪያጅ የተሰጠ ብድር ወይም የተገባ ዋስትና ካለ ለዓመታዊ ጠቅላላ ጉባኤ በሚቀርበው መግለጫ ላይ በግልጽ መመልከት ይኖርበታል ፡፡",
+    "simplified_sentence": "ለቦርድ አባላት ወይም ለሥራ አስኪያጅ የተሰጠ ብድር ወይም ዋስትና ካለ በግልጽ መታወቅ አለበት።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "1990. (፫) በዚህ አንቀጽ ንዑስ አንቀጽ (፩) መሰረት በተወሰኑት ውሳኔዎች ቅር የተሰኘ ባለፈቃድ ወይም የምዝገባ ምስክር ወረቀት የተሰጠው የመገናኛ ብዙኃን ውሳኔው በደረሰው በ ፳ የሥራ ቀናት ውስጥ ቅሬታውን ለቦርድ ሊያቀርብ ይችላል ፤",
+    "simplified_sentence": "በውሳኔው ቅር የተሰኘ ወገን በ20 የሥራ ቀናት ውስጥ ቅሬታውን ለቦርዱ ማቅረብ ይችላል።",
+    "simplification_type": "vocabulary_simplification"
+  },
+  {
+    "legal_sentence": "704. ክስ የቀረበለት ፍርድ ቤት ቦርድ የተጠየቀውን መረጃ እንዲሰጥ ትዕዛዝ መስጠት አለበት ።",
+    "simplified_sentence": "ክሱ የቀረበለት ፍርድ ቤት ቦርዱ የተጠየቀውን መረጃ እንዲሰጥ ማዘዝ አለበት።",
+    "simplification_type": "vocabulary_simplification"
+  }
+]
