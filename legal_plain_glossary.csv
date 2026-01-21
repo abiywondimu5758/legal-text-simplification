@@ -1,0 +1,349 @@
+legal_term,plain_term,category,change_allowed,notes
+ይገደዳል,አለበት,modal_verb,yes,Strong obligation
+መግደድ አለበት,አለበት,modal_verb,yes,Normalize obligation phrasing
+ይገባል,አለበት,modal_verb,yes,Keep obligation force
+አይፈቀድም,አይፈቀድም,prohibition,no,Do not weaken prohibition
+ይፈቀዳል,ይችላል,permission,yes,Allowed action
+መፈቀድ አለው,ይችላል,permission,yes,Normalize permission
+ተፈጻሚነት,መፈጸም,noun,yes,Context dependent
+ተፈጻሚ ይሆናል,ይሠራል,verb_phrase,yes,Common simplification
+መፈጸም ይኖረዋል,መፈጸም አለበት,verb_phrase,yes,Clarify obligation
+በህግ መሠረት,በህግ መሠረት,connector,no,Keep legal grounding
+በአዋጅ መሠረት,በአዋጅ መሠረት,connector,no,Keep reference
+በዚህ አዋጅ መሠረት,በዚህ ሕግ መሠረት,connector,yes,Slightly simpler wording
+መሠረት በመውሰድ,በ… ምክንያት,connector,yes,Simplify phrasing
+ከ… በስተቀር,ከ… በስተቀር,condition,no,Do not remove condition
+ካል… በስተቀር,ካል… በስተቀር,condition,no,Do not remove condition
+ቢሆንም,ቢሆንም,condition,no,Keep contrast
+እስከሚ…,እስከሚ…,condition,no,Temporal condition
+በማንኛውም ሁኔታ, ,boilerplate,yes,May be removed if redundant
+እንደተጠበቀ ሆኖ, ,boilerplate,yes,Often removable
+ማንኛውም ሰው,ሁሉም ሰው,subject,yes,Simpler wording
+ማንኛውም አካል,ሁሉም አካል,subject,yes,Simpler wording
+ከሳሽ,ከሳሽ,legal_role,no,Unchangeable
+ተከሳሽ,ተከሳሽ,legal_role,no,Unchangeable
+ባለቤት,ባለቤት,legal_role,no,Unchangeable
+ባለቤትነት,ባለቤትነት,legal_concept,no,Unchangeable
+ፍርድ ቤት,ፍርድ ቤት,institution,no,Unchangeable
+የፌዴራል ፍርድ ቤት,የፌዴራል ፍርድ ቤት,institution,no,Unchangeable
+አንቀጽ,አንቀጽ,reference,no,Unchangeable
+ንዑስ አንቀጽ,ንዑስ አንቀጽ,reference,no,Unchangeable
+ሕግ,ሕግ,reference,no,Unchangeable
+አዋጅ,ሕግ,reference,yes,Slightly simpler term
+ውል,ውል,legal_document,no,Unchangeable
+ውሉ ካል…,ካል ውሉ…,structure,yes,Syntactic simplification
+መክፈል አለበት,መክፈል አለበት,obligation,no,Keep force
+መክፈል ይገደዳል,መክፈል አለበት,obligation,yes,Normalize modal
+መብት አለው,መብት አለው,right,no,Do not weaken
+መብቱ ይጠበቃል,መብቱ ይጠበቃል,right,no,Preserve right
+ሀላፊነት ይኖረዋል,ሀላፊነት አለበት,obligation,yes,Clarify responsibility
+በጽሁፍ መደረግ አለበት,በጽሁፍ መደረግ አለበት,form_requirement,no,Preserve form
+በጽሁፍ ካልተደረገ,በጽሁፍ ካልተጻፈ,form_requirement,yes,Simpler wording
+በመሆኑም,ስለዚህ,connector,yes,Simpler causal connector
+በዚህ መሠረት,ስለዚህ,connector,yes,Simplify causal phrasing
+በዚህ ሁኔታ,እንዲሁ,connector,yes,Context dependent
+በተመሳሳይ መልኩ,እንዲሁ,connector,yes,Simplify phrasing
+በተጨማሪ,በተጨማሪ,connector,no,Keep additive meaning
+ከዚህ በኋላ,ከዚህ በኋላ,time,no,Temporal reference
+ቀደም ሲል,ከዚህ በፊት,time,yes,Simpler phrasing
+በወቅቱ,በዚያ ጊዜ,time,yes,Plain time expression
+በአግባቡ,በትክክል,adverb,yes,Common usage
+በተገቢው መንገድ,በትክክል,adverb,yes,Simpler wording
+እንዲሁም,እንዲሁም,connector,no,Do not drop
+ካለው ሁኔታ ጋር,እንደሁኔታው,connector,yes,Simplify phrasing
+በሚመለከተው,ስለ,connector,yes,Simplify reference
+ተጠያቂ ይሆናል,ተጠያቂ ይሆናል,liability,no,Preserve liability
+ሀላፊነት ይወስዳል,ሀላፊነት ይወስዳል,liability,no,Preserve responsibility
+ተጠያቂነት ይኖረዋል,ተጠያቂነት አለው,liability,yes,Simplify wording
+ተግባራዊ መሆን,መስራት,verb,yes,Simplify abstract phrase
+መወሰን ይኖረዋል,መወሰን አለበት,decision,yes,Clarify obligation
+ውሳኔ ይሰጣል,ውሳኔ ይሰጣል,decision,no,Preserve action
+ውሳኔ መስጠት,ውሳኔ መስጠት,decision,no,Preserve meaning
+በፍርድ ቤት ይወሰናል,ፍርድ ቤት ይወስናል,decision,yes,Active voice
+በሕጉ መሠረት,በሕጉ መሠረት,connector,no,Keep grounding
+በሕጉ መሠረት ሲሆን,በሕጉ መሠረት,connector,yes,Remove filler
+ማስፈጸም አለበት,መፈጸም አለበት,obligation,yes,Simplify verb
+ማስፈጸም ይገደዳል,መፈጸም አለበት,obligation,yes,Normalize obligation
+እርምጃ መውሰድ,እርምጃ መውሰድ,action,no,Preserve meaning
+አስፈላጊ መሆን,አስፈላጊ መሆን,requirement,no,Preserve requirement
+አስፈላጊ ይሆናል,አስፈላጊ ነው,requirement,yes,Simplify tense
+በሚገባ,በትክክል,adverb,yes,Common usage
+በሚቀጥለው,ቀጥሎ,time,yes,Simplify phrasing
+እንደ ተገለጸው,እንደተገለጸው,reference,no,Preserve reference
+እንደ ተጠቀሰው,እንደተጠቀሰው,reference,no,Preserve reference
+
+ተግባራዊነት,መስራት,noun,yes,Abstract to concrete
+ሕጋዊነት,ሕጋዊ መሆን,noun,yes,Clarify abstract noun
+ሕጋዊ ኃይል,የሕግ ኃይል,noun,yes,Simpler phrasing
+ሕጋዊ ተግባር,ሕጋዊ ሥራ,noun,yes,Common usage
+ሕጋዊ ግዴታ,የሕግ ግዴታ,noun,yes,Simplify structure
+በሕጋዊነት,በሕግ,connector,yes,Simplify adverbial form
+ሕጋዊ መሠረት,የሕግ መሠረት,noun,no,Preserve grounding
+የሕግ ኃላፊነት,የሕግ ሀላፊነት,noun,no,Spelling normalization
+በሕጉ የተደነገገ,በሕግ የተወሰነ,verb_phrase,yes,Simpler phrasing
+በሕጉ የተመለከተ,በሕግ የተመለከተ,verb_phrase,yes,Normalize phrasing
+መፈጸም እንዲኖር,መፈጸም እንዲሆን,verb_phrase,yes,Smoother form
+መፈጸም ካልተደረገ,መፈጸም ካልሆነ,condition,yes,Simplify conditional
+መፈጸም ካልተፈጸመ,ካልተፈጸመ,condition,yes,Shorten phrase
+መፈጸም በሚያስፈልገው,መፈጸም እንዲያስፈልግ,verb_phrase,yes,Grammar simplification
+ተጠቃሚ መሆን,መጠቀም,verb,yes,Verb simplification
+ተጠቃሚነት,መጠቀም,noun,yes,Abstract to action
+ተጠቃሚ መብት,የመጠቀም መብት,noun,yes,Clarify phrase
+ተጠቃሚ አካል,ተጠቃሚ,no,yes,Shorter noun
+በተፈቀደው መሠረት,በተፈቀደው መንገድ,connector,yes,Simplify connector
+በተወሰነው መሠረት,በተወሰነው መንገድ,connector,yes,Simplify phrase
+በተወሰነው ጊዜ,በተወሰነ ጊዜ,time,yes,Drop suffix
+በተወሰነ ወቅት,በተወሰነ ጊዜ,time,yes,Normalize time
+በሚፈለገው ጊዜ,በሚፈለግበት ጊዜ,time,yes,Grammar smoothing
+በሚፈለገው መልኩ,እንደሚፈለግ,connector,yes,Simplify structure
+በተግባር,በእውነት,adverb,yes,Context dependent
+በተግባር ላይ,በእውነት ላይ,adverb,yes,Clarify phrase
+በተግባር ሲፈጸም,ሲፈጸም,verb_phrase,yes,Drop redundancy
+ተፈቃድ መሆን,መፈቀድ,verb,yes,Verb normalization
+ተፈቃድ ይሆናል,ይፈቀዳል,permission,yes,Normalize permission
+አግባብ ያለው,ተገቢ,adjective,yes,Simplify adjective
+አግባብ ያልሆነ,ያልተገባ,adjective,yes,Common usage
+አግባብ ባለው ሁኔታ,በተገቢ ሁኔታ,connector,yes,Simplify phrasing
+የተመረጠ መንገድ,የተመረጠ መንገድ,process,no,Preserve meaning
+የተወሰነ መንገድ,የተወሰነ መንገድ,process,no,Preserve meaning
+መመሪያ መሰጠት,መመሪያ መስጠት,action,yes,Verb normalization
+መመሪያ መከተል,መመሪያ መከተል,action,no,Preserve phrase
+መመሪያ መጣስ,መመሪያ መጣስ,violation,no,Preserve legal force
+ጥፋት መፈጸም,ጥፋት መፈጸም,violation,no,Preserve meaning
+ጥፋት ተፈጽሟል,ጥፋት ተፈጽሟል,violation,no,Preserve tense
+ሕግ መጣስ,ሕግ መጣስ,violation,no,Preserve meaning
+ቅጣት ይጣል,ቅጣት ይሰጣል,penalty,yes,Common wording
+ቅጣት መጣል,ቅጣት መስጠት,penalty,yes,Verb simplification
+ቅጣት አለበት,ቅጣት አለበት,penalty,no,Preserve obligation
+ተጠያቂ መሆን,ተጠያቂ መሆን,liability,no,Preserve concept
+ተጠያቂ መሆን ይኖረዋል,ተጠያቂ ይሆናል,liability,yes,Simplify structure
+ተጠያቂነት መወሰን,ተጠያቂነት መወሰን,liability,no,Preserve action
+ማረጋገጥ መደረግ,ማረጋገጥ መስጠት,procedure,yes,Simplify verb
+ማስረጃ መቅረብ,ማስረጃ መቅረብ,evidence,no,Preserve meaning
+ማስረጃ ማቅረብ,ማስረጃ መቅረብ,evidence,yes,Normalize verb
+ማስረጃ ይቀርባል,ማስረጃ ይቀርባል,evidence,no,Preserve passive
+ተገቢ ማስረጃ,ተገቢ ማስረጃ,evidence,no,Preserve phrase
+ተፈቃድ ማግኘት,ፈቃድ ማግኘት,permission,yes,Simplify noun
+ፈቃድ መስጠት,ፈቃድ መስጠት,permission,no,Preserve meaning
+ፈቃድ መከልከል,ፈቃድ መከልከል,prohibition,no,Preserve meaning
+
+ሥልጣን መስጠት,ሥልጣን መስጠት,authority,no,Preserve authority
+ሥልጣን መውሰድ,ሥልጣን መውሰድ,authority,no,Preserve authority
+ሥልጣን መጣስ,ሥልጣን መጣስ,violation,no,Preserve violation
+ሥልጣን ያለው,ሥልጣን ያለው,authority,no,Preserve descriptor
+ሥልጣን የሌለው,ሥልጣን የሌለው,authority,no,Preserve descriptor
+በሥልጣኑ መሠረት,በሥልጣኑ መሠረት,connector,no,Preserve grounding
+ሕጋዊ እርምጃ,ሕጋዊ እርምጃ,action,no,Preserve legal act
+እርምጃ መውሰድ,እርምጃ መውሰድ,action,no,Preserve act
+እርምጃ ይወሰዳል,እርምጃ ይወሰዳል,action,no,Preserve passive
+እርምጃ መውሰድ አለበት,እርምጃ መውሰድ አለበት,obligation,no,Preserve obligation
+ተገቢ እርምጃ,ተገቢ እርምጃ,action,no,Preserve qualifier
+አስፈጻሚ አካል,አስፈጻሚ አካል,institution,no,Preserve role
+አስፈጻሚነት,መፈጸም,noun,yes,Abstract to concrete
+አስፈጻሚ መሆን,መፈጸም,verb,yes,Simplify abstract
+ተፈጻሚ ኃይል,የመፈጸም ኃይል,noun,yes,Clarify phrase
+ሥራ ላይ መዋል,መስራት,verb,yes,Simplify phrase
+ሥራ ላይ ይውላል,ይሠራል,verb,yes,Active voice
+ሥራ ላይ መዋል አለበት,መስራት አለበት,obligation,yes,Clarify obligation
+ተመራማሪ አካል,ተመራማሪ አካል,institution,no,Preserve role
+ምርመራ መደረግ,ምርመራ መፈጸም,procedure,yes,Verb normalization
+ምርመራ ይካሄዳል,ምርመራ ይደረጋል,procedure,yes,Simplify passive
+ምርመራ ማካሄድ,ምርመራ መፈጸም,procedure,yes,Normalize verb
+ምርመራ ውጤት,የምርመራ ውጤት,noun,no,Preserve meaning
+ውጤት መግለጽ,ውጤት መግለጽ,action,no,Preserve action
+ውጤት ማቅረብ,ውጤት መቅረብ,action,yes,Verb normalization
+ውጤት መቀበል,ውጤት መቀበል,action,no,Preserve meaning
+ውጤት መቃወም,ውጤት መቃወም,action,no,Preserve meaning
+ተግባራዊ መርሀግብር,የሥራ መመሪያ,noun,yes,Simplify abstract
+መርሀግብር መከተል,መመሪያ መከተል,action,yes,Simplify phrase
+መርሀግብር መጣስ,መመሪያ መጣስ,violation,yes,Normalize violation
+መመሪያ መተግበር,መመሪያ መፈጸም,action,yes,Simplify verb
+መመሪያ እንዲከተል,መመሪያ እንዲከተል,obligation,no,Preserve force
+በመመሪያ መሠረት,በመመሪያ መሠረት,connector,no,Preserve grounding
+የሥራ መመሪያ,የሥራ መመሪያ,noun,no,Preserve meaning
+የሥራ ሂደት,የሥራ ሂደት,noun,no,Preserve meaning
+ሂደት መከተል,ሂደት መከተል,procedure,no,Preserve meaning
+ሂደት መጣስ,ሂደት መጣስ,violation,no,Preserve violation
+በተወሰነ ሂደት,በተወሰነ ሂደት,connector,no,Preserve phrase
+በሂደቱ መሠረት,በሂደቱ መሠረት,connector,no,Preserve grounding
+በተፈጸመ ሂደት,በተፈጸመ ሂደት,connector,no,Preserve phrase
+ሕጋዊ መዋቅር,የሕግ መዋቅር,noun,yes,Simplify noun
+መዋቅር መከተል,መዋቅር መከተል,action,no,Preserve structure
+መዋቅር መጣስ,መዋቅር መጣስ,violation,no,Preserve violation
+ተመራማሪ ሂደት,የምርመራ ሂደት,noun,yes,Simplify phrase
+ማረጋገጫ መስጠት,ማረጋገጫ መስጠት,procedure,no,Preserve meaning
+ማረጋገጫ መቀበል,ማረጋገጫ መቀበል,procedure,no,Preserve meaning
+ማረጋገጫ መከልከል,ማረጋገጫ መከልከል,prohibition,no,Preserve meaning
+ተረጋግጧል,ተረጋግጧል,verification,no,Preserve tense
+አልተረጋገጠም,አልተረጋገጠም,verification,no,Preserve negation
+
+ውል መዋዋል,ውል መፈጸም,contract,yes,Simplify verb choice
+ውል መፈጸም,ውል መፈጸም,contract,no,Preserve meaning
+ውል ማቋረጥ,ውል ማቋረጥ,contract,no,Preserve legal act
+ውል ማጥፋት,ውል መሰረዝ,contract,yes,Simplify verb
+ውል መሰረዝ,ውል መሰረዝ,contract,no,Preserve meaning
+ውል መሻሻል,ውል ማሻሻል,contract,yes,Verb normalization
+ውል ማሻሻል,ውል ማሻሻል,contract,no,Preserve meaning
+ውል ማረም,ውል ማሻሻል,contract,yes,Simplify synonym
+ውል መተግበር,ውል መፈጸም,contract,yes,Simplify verb
+ውል ተፈጻሚ ነው,ውል ይሠራል,validity,yes,Plain phrasing
+ውል ተፈጻሚ አይደለም,ውል አይሠራም,validity,yes,Plain phrasing
+ውል ተፈጻሚነት,ውል መስራት,validity,yes,Abstract to concrete
+ውሉ በጽሁፍ መሆን,ውሉ በጽሁፍ መሆን,form_requirement,no,Preserve requirement
+በጽሁፍ መስራት,በጽሁፍ መጻፍ,form_requirement,yes,Simplify verb
+በጽሁፍ መጻፍ አለበት,በጽሁፍ መጻፍ አለበት,form_requirement,no,Preserve obligation
+በማኅተም ማረጋገጥ,በማኅተም ማረጋገጥ,form_requirement,no,Preserve meaning
+መፈረም,መፈረም,form_requirement,no,Preserve meaning
+ውል የተፈረመ,የተፈረመ ውል,contract,yes,Syntactic simplification
+ውል ማስረጃ,ውል ማስረጃ,evidence,no,Preserve meaning
+የውል መስፈርት,የውል መስፈርት,contract,no,Preserve meaning
+የውል ሁኔታ,የውል ሁኔታ,contract,no,Preserve meaning
+የውል ግዴታ,የውል ግዴታ,contract,no,Preserve legal force
+የውል መብት,የውል መብት,contract,no,Preserve legal right
+የውል መብት ማስፈጸም,የውል መብት መፈጸም,contract,yes,Simplify verb
+ተዋዋይ ወገን,ተዋዋይ አካል,party,yes,Plain noun
+ወገኖች,አካላት,party,yes,Context dependent
+አንዱ ወገን,አንዱ አካል,party,yes,Plain noun
+ሌላው ወገን,ሌላው አካል,party,yes,Plain noun
+የመጀመሪያ ወገን,የመጀመሪያ አካል,party,yes,Plain noun
+የሁለተኛ ወገን,የሁለተኛ አካል,party,yes,Plain noun
+የሦስተኛ ወገን,የሦስተኛ አካል,party,yes,Plain noun
+ወገኖች ይስማማሉ,አካላት ይስማማሉ,contract,yes,Plain noun
+ስምምነት,ስምምነት,contract,no,Preserve meaning
+ስምምነት መድረስ,መስማማት,contract,yes,Simplify verb
+መስማማት አለበት,መስማማት አለበት,obligation,no,Preserve obligation
+በስምምነት መሠረት,በስምምነት መሠረት,connector,no,Preserve grounding
+ስምምነት መጣስ,ስምምነት መጣስ,breach,no,Preserve breach
+የውል መጣስ,የውል መጣስ,breach,no,Preserve breach
+መጣስ ተፈጽሟል,መጣስ ተፈጽሟል,breach,no,Preserve tense
+መጣስ ካለ,መጣስ ካለ,condition,no,Keep condition
+መጣስ ቢኖር,መጣስ ቢኖር,condition,no,Keep conditional
+መጣስ ከተፈጸመ,መጣስ ከተፈጸመ,condition,no,Keep condition
+መጣስ ካልተፈጸመ,መጣስ ካልተፈጸመ,condition,no,Keep condition
+የጥፋት ተጠያቂነት,የጥፋት ተጠያቂነት,liability,no,Preserve meaning
+ካሳ መክፈል,ካሳ መክፈል,remedy,no,Preserve remedy
+ካሳ ክፍያ,የካሳ ክፍያ,remedy,yes,Simplify structure
+ካሳ መጠየቅ,ካሳ መጠየቅ,remedy,no,Preserve meaning
+ካሳ መክፈል አለበት,ካሳ መክፈል አለበት,obligation,no,Preserve obligation
+ጉዳት ማስከተል,ጉዳት ማድረስ,liability,yes,Common usage
+ጉዳት መከሰት,ጉዳት መከሰት,liability,no,Preserve meaning
+ጉዳት ተከስቷል,ጉዳት ተከስቷል,liability,no,Preserve tense
+ጉዳት ካለ,ጉዳት ካለ,condition,no,Keep condition
+ኪሳራ,ኪሳራ,liability,no,Preserve meaning
+ኪሳራ መከሰት,ኪሳራ መከሰት,liability,no,Preserve meaning
+ኪሳራ ካለ,ኪሳራ ካለ,condition,no,Keep condition
+ውጤት መከሰት,ውጤት መከሰት,process,no,Preserve meaning
+የገንዘብ ክፍያ,የገንዘብ ክፍያ,payment,no,Preserve meaning
+ክፍያ መፈጸም,ክፍያ መክፈል,payment,yes,Simplify verb
+ክፍያ መክፈል,ክፍያ መክፈል,payment,no,Preserve meaning
+ክፍያ መዘግየት,ክፍያ መዘግየት,payment,no,Preserve meaning
+መዘግየት ካለ,መዘግየት ካለ,condition,no,Keep condition
+ዘግይቶ ከተከፈለ,ዘግይቶ ከተከፈለ,condition,no,Keep condition
+በጊዜው መክፈል,በጊዜው መክፈል,payment,no,Preserve meaning
+በጊዜው ካልተከፈለ,በጊዜው ካልተከፈለ,condition,no,Keep condition
+የወለድ ክፍያ,የወለድ ክፍያ,payment,no,Preserve meaning
+ወለድ መክፈል,ወለድ መክፈል,payment,no,Preserve meaning
+ወለድ መጠየቅ,ወለድ መጠየቅ,payment,no,Preserve meaning
+ተጨማሪ ወለድ,ተጨማሪ ወለድ,payment,no,Preserve meaning
+የቅጣት ወለድ,የቅጣት ወለድ,penalty,no,Preserve meaning
+መቀጮ,መቀጮ,penalty,no,Preserve meaning
+መቀጮ መጣል,መቀጮ መስጠት,penalty,yes,Verb simplification
+መቀጮ መክፈል,መቀጮ መክፈል,penalty,no,Preserve meaning
+መቀጮ መክፈል አለበት,መቀጮ መክፈል አለበት,obligation,no,Preserve obligation
+ተገቢ መቀጮ,ተገቢ መቀጮ,penalty,no,Preserve meaning
+የተወሰነ መቀጮ,የተወሰነ መቀጮ,penalty,no,Preserve meaning
+አስገዳጅ ነው,አለበት,modal_verb,yes,Normalize obligation
+አስገዳጅነት,ግዴታ,noun,yes,Simplify abstract
+አስገዳጅ መሆን,መሆን አለበት,modal_verb,yes,Plain phrasing
+አስፈላጊ መስፈርት,አስፈላጊ መስፈርት,requirement,no,Preserve meaning
+መስፈርት መሟላት,መስፈርት መሟላት,requirement,no,Preserve meaning
+መስፈርት ካልተሟላ,መስፈርት ካልተሟላ,condition,no,Keep condition
+መስፈርት ቢሟላ,መስፈርት ቢሟላ,condition,no,Keep condition
+መስፈርት መሙላት አለበት,መስፈርት መሟላት አለበት,obligation,yes,Normalize verb
+ቅድመ ሁኔታ,ቅድመ ሁኔታ,condition,no,Preserve term
+ቅድመ ሁኔታ መሟላት,ቅድመ ሁኔታ መሟላት,condition,no,Preserve phrase
+ቅድመ ሁኔታ ካልተሟላ,ቅድመ ሁኔታ ካልተሟላ,condition,no,Keep condition
+በቅድመ ሁኔታ መሠረት,በቅድመ ሁኔታ መሠረት,connector,no,Preserve grounding
+የተሟላ ቅድመ ሁኔታ,የተሟላ ቅድመ ሁኔታ,condition,no,Preserve meaning
+ተገቢ መስፈርት,ተገቢ መስፈርት,requirement,no,Preserve meaning
+አለመቻል,አልቻለም,ability,yes,Simplify abstract
+መቻል አለመቻል,መቻል አልቻለም,ability,yes,Simplify phrasing
+ኃይል ማጣት,ኃይል ማጣት,force_majeure,no,Preserve meaning
+የግድ ሁኔታ,የግድ ሁኔታ,force_majeure,no,Preserve meaning
+ከኃይል በላይ ሁኔታ,ከኃይል በላይ ሁኔታ,force_majeure,no,Preserve meaning
+በኃይል በላይ ምክንያት,በኃይል በላይ ምክንያት,force_majeure,no,Preserve meaning
+በኃይል በላይ ምክንያት ካለ,በኃይል በላይ ምክንያት ካለ,condition,no,Keep condition
+ለማሳወቅ ግዴታ,ለማሳወቅ አለበት,obligation,yes,Clarify obligation
+ማሳወቅ ይገደዳል,ማሳወቅ አለበት,obligation,yes,Normalize modal
+ማሳወቂያ መስጠት,ማሳወቂያ መስጠት,procedure,no,Preserve meaning
+ማሳወቂያ መቀበል,ማሳወቂያ መቀበል,procedure,no,Preserve meaning
+ማሳወቂያ መላክ,ማሳወቂያ መላክ,procedure,no,Preserve meaning
+ማሳወቂያ መድረስ,ማሳወቂያ መድረስ,procedure,no,Preserve meaning
+በተወሰነ ጊዜ ውስጥ,በተወሰነ ጊዜ ውስጥ,time,no,Preserve time limit
+በ… ቀናት ውስጥ,በ… ቀናት ውስጥ,time,no,Preserve numeric constraint
+በ… ወራት ውስጥ,በ… ወራት ውስጥ,time,no,Preserve numeric constraint
+በ… ዓመታት ውስጥ,በ… ዓመታት ውስጥ,time,no,Preserve numeric constraint
+የጊዜ ገደብ,የጊዜ ገደብ,time,no,Preserve term
+ጊዜ ገደብ መያዝ,ጊዜ ገደብ መከተል,time,yes,Simplify verb
+ጊዜ ገደብ መጣስ,ጊዜ ገደብ መጣስ,violation,no,Preserve violation
+ጊዜ ገደብ ካለፈ,ጊዜ ገደብ ካለፈ,condition,no,Keep condition
+በወቅቱ ማቅረብ,በጊዜው ማቅረብ,time,yes,Common usage
+በጊዜው ማቅረብ,በጊዜው ማቅረብ,time,no,Preserve meaning
+በጊዜው ካልተቀረበ,በጊዜው ካልተቀረበ,condition,no,Keep condition
+ማቅረብ ይገባል,ማቅረብ አለበት,obligation,yes,Normalize modal
+ማቅረብ ይገደዳል,ማቅረብ አለበት,obligation,yes,Normalize modal
+መመዝገብ አለበት,መመዝገብ አለበት,obligation,no,Preserve obligation
+መመዝገብ ይገደዳል,መመዝገብ አለበት,obligation,yes,Normalize modal
+ምዝገባ መፈጸም,ምዝገባ ማድረግ,procedure,yes,Common verb
+ምዝገባ ማድረግ,ምዝገባ ማድረግ,procedure,no,Preserve meaning
+ምዝገባ ማስረጃ,የምዝገባ ማስረጃ,document,yes,Simplify structure
+የምዝገባ ማስረጃ,የምዝገባ ማስረጃ,document,no,Preserve meaning
+ማስረጃ መስጠት,ማስረጃ መስጠት,document,no,Preserve meaning
+ማስረጃ መቀበል,ማስረጃ መቀበል,document,no,Preserve meaning
+ማስረጃ መልቀቅ,ማስረጃ መስጠት,document,yes,Verb simplification
+ማስረጃ መላክ,ማስረጃ መላክ,document,no,Preserve meaning
+ማስረጃ መስበክ,ማስረጃ መጠቀም,evidence,yes,Context dependent
+ማስረጃ መመርመር,ማስረጃ መመርመር,evidence,no,Preserve meaning
+ማስረጃ መጥፋት,ማስረጃ መጥፋት,evidence,no,Preserve meaning
+ማስረጃ መሰረዝ,ማስረጃ መሰረዝ,evidence,no,Preserve meaning
+የሕግ ተግባር የሌለው,ሕጋዊ አይደለም,validity,yes,Plain phrasing
+ሕጋዊ አይደለም,ሕጋዊ አይደለም,validity,no,Preserve meaning
+ሕጋዊ ነው,ሕጋዊ ነው,validity,no,Preserve meaning
+ሕጋዊ ተፅዕኖ,የሕግ ተፅዕኖ,noun,yes,Simplify structure
+ሕጋዊ ውጤት,የሕግ ውጤት,noun,yes,Simplify structure
+ተቀባይነት,መቀበል,noun,yes,Abstract to action
+ተቀባይነት አለው,ይቀበላል,verb,yes,Plain phrasing
+ተቀባይነት የለውም,አይቀበልም,verb,yes,Plain phrasing
+የሚቀበለው,የሚቀበለው,reference,no,Preserve meaning
+ተገቢ ነው,ተገቢ ነው,adjective,no,Preserve meaning
+ተገቢ አይደለም,ተገቢ አይደለም,adjective,no,Preserve meaning
+የተሟላ ማስረጃ,የተሟላ ማስረጃ,evidence,no,Preserve meaning
+የተሟላ ሰነድ,የተሟላ ሰነድ,document,no,Preserve meaning
+ሰነድ መቅረብ,ሰነድ መቅረብ,document,no,Preserve meaning
+ሰነድ ማቅረብ,ሰነድ መቅረብ,document,yes,Verb normalization
+ሰነድ መመርመር,ሰነድ መመርመር,document,no,Preserve meaning
+ሰነድ መቀበል,ሰነድ መቀበል,document,no,Preserve meaning
+ሰነድ መመዝገብ,ሰነድ መመዝገብ,document,no,Preserve meaning
+ሰነድ መሰረዝ,ሰነድ መሰረዝ,document,no,Preserve meaning
+ሰነድ መለወጥ,ሰነድ ማሻሻል,document,yes,Plain verb
+መሻሻል,ማሻሻል,verb,yes,Verb normalization
+መሻሻል ይችላል,ማሻሻል ይችላል,permission,yes,Normalize structure
+መሻሻል አለበት,ማሻሻል አለበት,obligation,yes,Normalize structure
+ማሻሻል አይፈቀድም,ማሻሻል አይፈቀድም,prohibition,no,Preserve prohibition
+ማሻሻል ይፈቀዳል,ማሻሻል ይችላል,permission,yes,Plain phrasing
+ተቃውሞ ማቅረብ,ተቃውሞ ማቅረብ,appeal,no,Preserve meaning
+ተቃውሞ መቅረብ,ተቃውሞ መቅረብ,appeal,no,Preserve meaning
+ተቃውሞ ካልቀረበ,ተቃውሞ ካልቀረበ,condition,no,Keep condition
+አቤቱታ ማቅረብ,አቤቱታ ማቅረብ,appeal,no,Preserve meaning
+አቤቱታ መቅረብ,አቤቱታ መቅረብ,appeal,no,Preserve meaning
+አቤቱታ መመርመር,አቤቱታ መመርመር,appeal,no,Preserve meaning
+አቤቱታ መቀበል,አቤቱታ መቀበል,appeal,no,Preserve meaning
+አቤቱታ አልተቀበለም,አቤቱታ አልተቀበለም,appeal,no,Preserve meaning
+ይገባኛል,መብት አለኝ,right,yes,Plain phrasing
+መብት አለኝ,መብት አለኝ,right,no,Preserve meaning
+መብት የለኝም,መብት የለኝም,right,no,Preserve meaning
+መብት ማስፈጸም,መብት መፈጸም,right,yes,Simplify verb
+መብት መጠቀም,መብት መጠቀም,right,no,Preserve meaning
+መብት መጠቀም አለበት,መብት መጠቀም አለበት,obligation,no,Preserve obligation
+መብት መጠቀም ይችላል,መብት መጠቀም ይችላል,permission,no,Preserve permission
+

@@ -1,0 +1,50 @@
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+.gemini_api_key
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML artifacts / large outputs (remove if you want to version them)
+models/
+Dataset/
+evaluation_cache/
+extracted_sentences/
+checkpoints/
+wandb/
+runs/
+rag_pipeline/
+
+# Large model/data files
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+*.h5
+*.onnx
+*.tflite
+*.parquet
+*.arrow
+*.zip
+*.tar.gz
+*.tgz
+*.sqlite
+*.db
+*.log
