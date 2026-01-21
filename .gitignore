@@ -26,6 +26,7 @@ models/
 Dataset/
 evaluation_cache/
 extracted_sentences/
+rag_pipeline/
 checkpoints/
 wandb/
 runs/
